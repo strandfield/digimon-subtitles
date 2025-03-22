@@ -1,5 +1,5 @@
 
-00:00:00,000 --> 00:00:03,540
+00:00:00,460 --> 00:00:03,540
 We were crossing yet another desert when
 Kari got sick and collapsed.
 
@@ -57,7 +57,7 @@ they're sick, TK?
 
 
 00:01:29,121 --> 00:01:32,680
-It's tough to say for sure, Gatoman,
+It's tough to say for sure, Gatomon,
 but I'd guess anywhere between eight hours
 
 
@@ -174,7 +174,7 @@ Who's that with Patamon?
 
 
 00:02:23,600 --> 00:02:24,820
-It's Biamon!
+It's Biyomon!
 
 
 00:02:25,040 --> 00:02:26,040
@@ -190,7 +190,7 @@ You look so much better.
 
 
 00:02:31,520 --> 00:02:32,800
-Have you seen Ty and the others?
+Have you seen Tai and the others?
 
 
 00:02:33,640 --> 00:02:34,640
@@ -203,11 +203,11 @@ them.
 
 
 00:02:37,660 --> 00:02:38,060
-Ty!
+Tai!
 
 
 00:02:38,500 --> 00:02:39,500
-Help me, Ty!
+Help me, Tai!
 
 
 00:02:40,800 --> 00:02:41,800
@@ -216,7 +216,7 @@ Kari!
 
 00:02:45,880 --> 00:02:49,660
 My guess is that when we all fell,
-Ty and Izzy landed somewhere else.
+Tai and Izzy landed somewhere else.
 
 
 00:02:49,661 --> 00:02:51,140
@@ -232,11 +232,11 @@ Oh, I almost forgot.
 
 
 00:02:54,420 --> 00:02:55,700
-Look what Biamon found.
+Look what Biyomon found.
 
 
 00:02:55,920 --> 00:02:58,540
-I'm sure it's the medicine Ty went to find
+I'm sure it's the medicine Tai went to find
 for you.
 
 
@@ -247,7 +247,7 @@ comes back?
 
 00:03:01,400 --> 00:03:03,740
 You can use it as a reminder of how much
-Ty loves you.
+Tai loves you.
 
 
 00:03:03,860 --> 00:03:06,020
@@ -278,7 +278,7 @@ too.
 
 
 00:03:15,620 --> 00:03:17,600
-After all, Ty would do the same for me.
+After all, Tai would do the same for me.
 
 
 00:03:18,280 --> 00:03:21,820
@@ -340,7 +340,7 @@ Keep working or else!
 
 
 00:03:50,240 --> 00:03:53,220
-I said work, you lazy Noomomond!
+I said work, you lazy Numemon!
 
 
 00:03:53,560 --> 00:03:54,040
@@ -348,7 +348,7 @@ Golly!
 
 
 00:03:54,260 --> 00:03:56,120
-You slimy Noomomond make me sick!
+You slimy Numemon make me sick!
 
 
 00:03:56,380 --> 00:03:59,040
@@ -357,7 +357,7 @@ sunlight, we wouldn't have to keep you
 
 
 00:03:59,041 --> 00:04:02,160
-working underground to power Machinderbond
+working underground to power Machinedramon
 City on Spiral Mountain!
 
 
@@ -371,7 +371,7 @@ mad!
 
 
 00:04:10,000 --> 00:04:11,100
-Isn't that Monzeemon?
+Isn't that Monzaemon?
 
 
 00:04:11,340 --> 00:04:12,240
@@ -383,20 +383,24 @@ He used to be so cuddly!
 
 
 00:04:13,780 --> 00:04:15,220
-That's not Monzeemon, TK!
+That's not Monzaemon, TK!
 
 
 00:04:15,380 --> 00:04:16,600
-That's Waru Monzeemon!
+That's WaruMonzaemon!
 
 
-00:04:18,060 --> 00:04:22,260
-Monzeemon was sweet and cute, but Waru
-Monzeemon is about as cuddly as a porcupine!
+00:04:18,060 --> 00:04:19,339
+Monzaemon was sweet and cute,
+
+
+00:04:19,386 --> 00:04:22,260
+but WaruMonzeamon is about 
+as cuddly as a porcupine!
 
 
 00:04:22,440 --> 00:04:25,480
-His bear paw will give you heartburn,
+His Bear Claw will give you heartburn,
 along with his heartbreak attack!
 
 
@@ -405,7 +409,7 @@ Big meanie!
 
 
 00:04:26,701 --> 00:04:29,420
-He's torturing those poor Noomomon down
+He's torturing those poor Numemon down
 there!
 
 
@@ -455,7 +459,7 @@ Huh?
 
 
 00:04:57,320 --> 00:04:58,340
-The Digi-Destined?
+The DigiDestined?
 
 
 00:04:58,860 --> 00:05:00,160
@@ -479,7 +483,7 @@ Gatomon, please leave me here.
 
 
 00:05:26,950 --> 00:05:29,170
-I need to free the Noomomon from their
+I need to free the Numemon from their
 chains.
 
 
@@ -499,16 +503,20 @@ Catch us if you can, you big throw-run!
 I'll get you!
 
 
-00:05:38,690 --> 00:05:40,090
-Noomomon Digivolve 2!
+00:05:38,243 --> 00:05:40,090
+Biyomon digivolve to...
 
 
 00:05:40,091 --> 00:05:41,091
 Hey!
 
 
+00:05:41,324 --> 00:05:42,383
+What did happen?
+
+
 00:05:42,860 --> 00:05:44,440
-I'm on Digivolve 2!
+Patamon, digivolve to...
 
 
 00:05:45,860 --> 00:05:47,320
@@ -532,7 +540,7 @@ Wait!
 
 
 00:06:19,530 --> 00:06:21,450
-We'll wait for Digi-Destined!
+We'll wait for DigiDestined!
 
 
 00:06:21,590 --> 00:06:23,470
@@ -592,7 +600,7 @@ Queen Kari!
 
 
 00:06:43,070 --> 00:06:47,090
-The Noomomon think you're...their queen!
+The Numemon think you're... their queen!
 
 
 00:06:47,770 --> 00:06:49,590
@@ -611,19 +619,7 @@ Queen Kari!
 Queen Kari!
 
 
-00:07:00,441 --> 00:07:00,640
-Queen Kari!
-
-
 00:07:00,760 --> 00:07:02,020
-Queen Kari!
-
-
-00:07:02,021 --> 00:07:02,040
-Queen Kari!
-
-
-00:07:02,280 --> 00:07:02,340
 Queen Kari!
 
 
@@ -631,8 +627,9 @@ Queen Kari!
 I'm back!
 
 
-00:07:04,320 --> 00:07:08,160
-Han, what are you doing out here?
+00:07:06,067 --> 00:07:08,160
+Hey, you Numemon, 
+what are you doing out here?
 
 
 00:07:08,380 --> 00:07:09,760
@@ -680,7 +677,7 @@ I'll beat the scuffing out of you!
 
 
 00:07:28,580 --> 00:07:29,580
-No, Maman.
+Numemon.
 
 
 00:07:30,600 --> 00:07:31,600
@@ -705,7 +702,7 @@ This is easier than swatting Digi-Fly!
 
 
 00:07:47,740 --> 00:07:48,740
-Heartbreak attack!
+Heart Break Attack!
 
 
 00:07:50,020 --> 00:07:51,020
@@ -732,8 +729,28 @@ I'm surging with energy!
 Quick, get me a scratching post!
 
 
-00:08:11,420 --> 00:08:25,970
-Boys and girls!
+00:08:03,653 --> 00:08:05,653
+Gatomon, digivolve to...
+
+
+00:08:09,126 --> 00:08:11,126
+Angewomon!
+
+
+00:08:11,579 --> 00:08:12,686
+Biyomon, digivolve to...
+
+
+00:08:13,086 --> 00:08:14,586
+Birdramon!
+
+
+00:08:16,119 --> 00:08:17,566
+Patamon, digivolve to...
+
+
+00:08:18,226 --> 00:08:19,579
+Angemon!
 
 
 00:08:26,470 --> 00:08:27,670
@@ -748,24 +765,28 @@ I'll put you to work, too!
 What do you think of that?
 
 
-00:08:30,750 --> 00:08:31,770
-Meteor, away!
+00:08:30,750 --> 00:08:32,210
+Meteor Wing!
 
 
 00:08:32,850 --> 00:08:33,890
-And a fake!
+Hand of Fate!
 
 
 00:08:33,891 --> 00:08:34,891
 Hey!
 
 
-00:08:35,330 --> 00:08:36,330
-Ugh!
+00:08:35,330 --> 00:08:37,570
+Celestial Arrow!
+
+
+00:08:39,916 --> 00:08:40,970
+Let's keep them out!
 
 
 00:08:46,630 --> 00:08:48,250
-No more chains, new Maman.
+No more chains, Numemon.
 
 
 00:08:50,410 --> 00:08:52,230
@@ -780,7 +801,7 @@ I love you, Queen Kari!
 You're sweet!
 
 
-00:08:56,650 --> 00:08:57,850
+00:08:56,887 --> 00:08:57,850
 That light again!
 
 
@@ -815,7 +836,7 @@ Well, Kari, I hope your light doesn't run
 out of batteries!
 
 
-00:09:16,550 --> 00:09:17,550
+00:09:15,636 --> 00:09:16,170
 Hm...
 
 
@@ -828,13 +849,13 @@ Follow me!
 
 
 00:09:24,290 --> 00:09:27,470
-Well, you see, Lord Machine German,
+Well, you see, Lord Machinedramon,
 it's actually a pretty funny story!
 
 
 00:09:27,770 --> 00:09:30,670
 Stop stalling and tell me what happened,
-Waru Manziman.
+WaruMonzaemon.
 
 
 00:09:31,130 --> 00:09:33,450
@@ -846,7 +867,7 @@ Yes, your middle-ness!
 
 
 00:09:35,070 --> 00:09:37,050
-You see, I found the Digi Destin!
+You see, I found the DigiDestined!
 
 
 00:09:37,210 --> 00:09:38,430
@@ -858,13 +879,14 @@ Yes, and I was going to capture them for
 you too, but this one little girl was
 
 
-00:09:42,351 --> 00:09:45,490
-really strong, and then the new one were
-biting me and it was really bad!
+00:09:42,351 --> 00:09:44,424
+really strong, and then
+the Numemon were biting me
 
 
-00:09:45,750 --> 00:09:45,870
-Enough!
+00:09:44,491 --> 00:09:45,490
+- and it was really bad!
+- Enough!
 
 
 00:09:45,871 --> 00:09:49,950
@@ -873,7 +895,7 @@ tough, wait till I get through with you.
 
 
 00:09:50,310 --> 00:09:53,830
-Why didn't you alert me, you stupid
+Why didn't you alert me, you doomed bin
 carnival prize?
 
 
@@ -893,7 +915,7 @@ after your grueling battle.
 
 00:10:03,670 --> 00:10:06,730
 Let me reward you for helping me locate
-the Digi Destined.
+the DigiDestined.
 
 
 00:10:06,731 --> 00:10:07,731
@@ -905,16 +927,16 @@ He shot my paw!
 
 
 00:10:15,970 --> 00:10:16,970
-Cory!
+Kari!
 
 
 00:10:23,000 --> 00:10:25,640
-Agamon, what are you doing laying down at
+Agumon, what are you doing laying down at
 a time like this?
 
 
 00:10:26,820 --> 00:10:27,540
-Sorry, Ty.
+Sorry, Tai.
 
 
 00:10:27,720 --> 00:10:28,720
@@ -922,7 +944,7 @@ I'll try to keep up.
 
 
 00:10:29,480 --> 00:10:31,480
-You know, Ty, that's the fifth time he's
+You know, Tai, that's the fifth time he's
 collapsed.
 
 
@@ -936,7 +958,7 @@ Hmm.
 
 
 00:10:37,820 --> 00:10:38,820
-Cory!
+Kari!
 
 
 00:10:40,140 --> 00:10:40,820
@@ -947,7 +969,7 @@ That's right.
 Just let our Digimon die.
 
 
-00:10:42,280 --> 00:10:42,400
+00:10:42,280 --> 00:10:42,700
 Huh?
 
 
@@ -959,11 +981,11 @@ Oh, sorry guys.
 It's just a figure of speech.
 
 
-00:10:45,840 --> 00:10:47,400
-I'm pretty tired too, Ty.
+00:10:46,053 --> 00:10:47,486
+I'm pretty tired too, Tai.
 
 
-00:10:47,720 --> 00:10:48,800
+00:10:47,906 --> 00:10:48,800
 Why don't we rest?
 
 
@@ -987,8 +1009,8 @@ Kari's sick.
 We have to find her.
 
 
-00:10:55,920 --> 00:10:58,480
-I know that, Ty, but she's not here right
+00:10:56,203 --> 00:10:58,480
+I know that, Tai, but she's not here right
 now.
 
 
@@ -996,16 +1018,16 @@ now.
 That's my point!
 
 
-00:11:00,100 --> 00:11:01,500
+00:11:00,100 --> 00:11:01,856
 We have to find her now!
 
 
-00:11:01,501 --> 00:11:02,980
-Calm down, Ty.
+00:11:02,136 --> 00:11:02,980
+Calm down, Tai.
 
 
 00:11:03,400 --> 00:11:04,300
-I'm warning you, Ty.
+I'm warning you, Tai.
 
 
 00:11:04,400 --> 00:11:06,240
@@ -1016,7 +1038,7 @@ You better stop giving us orders or else.
 Or else what?
 
 
-00:11:10,220 --> 00:11:12,460
+00:11:10,609 --> 00:11:12,460
 I didn't plan anything after or else.
 
 
@@ -1032,7 +1054,7 @@ You want to see tough?
 Here's tough!
 
 
-00:11:20,020 --> 00:11:21,700
+00:11:19,743 --> 00:11:21,700
 Izzy, did you hear that?
 
 
@@ -1060,7 +1082,7 @@ All I hear is my head pounding.
 Someone's here.
 
 
-00:11:30,120 --> 00:11:31,780
+00:11:30,470 --> 00:11:31,780
 You think he's been following us?
 
 
@@ -1104,7 +1126,7 @@ Take that!
 
 00:11:56,150 --> 00:11:58,530
 Do you think it could be one of
-Machinedramund's guys?
+Machinedramon's guys?
 
 
 00:11:58,750 --> 00:11:59,750
@@ -1127,40 +1149,40 @@ Yes.
 Not a bad idea.
 
 
-00:12:06,870 --> 00:12:07,510
-Systemon!
+00:12:06,870 --> 00:12:08,630
+Tentomon, digivolve to...
 
 
-00:12:07,630 --> 00:12:08,630
-Digivolve 2!
-
-
-00:12:10,050 --> 00:12:10,690
-Kaboom!
+00:12:09,783 --> 00:12:10,690
+Kabu...
 
 
 00:12:10,950 --> 00:12:11,950
 Never mind!
 
 
-00:12:13,030 --> 00:12:13,670
-Abumon!
-
-
-00:12:13,671 --> 00:12:14,671
-Digivolve 2!
+00:12:13,030 --> 00:12:14,671
+Agumon, digivolve to...
 
 
 00:12:15,950 --> 00:12:16,950
-Robot!
+Greymon!
 
 
 00:12:17,630 --> 00:12:18,630
-Abumon,
+Greymon!
 
 
-00:12:23,320 --> 00:12:25,140
-your Digivolve was a digi-dud.
+00:12:19,823 --> 00:12:21,396
+Greymon, Greymon, Greymon!
+
+
+00:12:21,437 --> 00:12:22,483
+I'm big and I'm bad!
+
+
+00:12:22,530 --> 00:12:25,140
+Agumon, your digivolve was a digi-dud.
 
 
 00:12:25,400 --> 00:12:26,940
@@ -1172,7 +1194,7 @@ Izzy, I'm sorry.
 
 
 00:12:29,840 --> 00:12:30,840
-It's okay, Ty.
+It's okay, Tai.
 
 
 00:12:30,980 --> 00:12:33,060
@@ -1205,7 +1227,7 @@ Nothing can be settled with violence.
 
 
 00:12:43,860 --> 00:12:44,900
-I'm not gonna hit you, Ty.
+I'm not gonna hit you, Tai.
 
 
 00:12:45,120 --> 00:12:46,120
@@ -1228,7 +1250,7 @@ I get it.
 Here he comes!
 
 
-00:12:55,500 --> 00:12:55,900
+00:12:54,940 --> 00:12:55,900
 Andromon!
 
 
@@ -1237,7 +1259,7 @@ I remember now!
 
 
 00:12:57,720 --> 00:12:59,460
-We met Andromon on Fire Island.
+We met Andromon on File Island.
 
 
 00:12:59,700 --> 00:13:03,280
@@ -1326,7 +1348,7 @@ Have you seen her?
 
 
 00:13:46,300 --> 00:13:49,760
-Sora, Biomon, TK, and Panamon are probably
+Sora, Biyomon, TK, and Patamon are probably
 with her too.
 
 
@@ -1363,7 +1385,7 @@ Really?
 
 
 00:14:04,420 --> 00:14:05,540
-Prodigis, Andromon!
+Prodigious, Andromon!
 
 
 00:14:09,560 --> 00:14:10,580
@@ -1378,7 +1400,7 @@ Just what I was looking for.
 Victims.
 
 
-00:14:14,500 --> 00:14:14,820
+00:14:14,066 --> 00:14:15,233
 Machinedramon!
 
 
@@ -1469,8 +1491,8 @@ He's raising an army against
 Machinedramon!
 
 
-00:15:19,730 --> 00:15:20,730
-Dragonfire!
+00:15:19,425 --> 00:15:20,730
+Dragon Fire!
 
 
 00:15:30,110 --> 00:15:31,870
@@ -1494,27 +1516,19 @@ Let's fight Machinedramon together!
 
 
 00:15:39,830 --> 00:15:40,890
-Meteor away!
+Meteor Wing!
 
 
-00:15:40,891 --> 00:15:42,950
-The Celestial Arrow!
+00:15:41,476 --> 00:15:43,323
+Celestial Arrow!
 
 
-00:15:44,110 --> 00:15:44,990
-The Celestial Arrow!
-
-
-00:15:44,991 --> 00:15:45,530
-End of fate!
-
-
-00:15:45,870 --> 00:15:50,210
-End of fate!
+00:15:44,656 --> 00:15:45,530
+Hand of Fate!
 
 
 00:15:57,330 --> 00:15:58,610
-Machinedramon's a megadigimon!
+Machinedramon's a Mega Digimon!
 
 
 00:15:59,070 --> 00:16:00,070
@@ -1522,11 +1536,11 @@ They can't win!
 
 
 00:16:00,170 --> 00:16:01,170
-Gigacannon!
+Giga Cannon!
 
 
 00:16:02,290 --> 00:16:03,290
-Gigacannon!
+Giga Cannon!
 
 
 00:16:14,640 --> 00:16:16,760
@@ -1555,11 +1569,11 @@ I'll try to make this as painful as I can.
 
 00:16:43,300 --> 00:16:45,560
 What do you think you are doing,
-Noomomon?
+Numemon?
 
 
 00:16:46,840 --> 00:16:47,440
-Noomomon?
+Numemon?
 
 
 00:16:47,700 --> 00:16:49,820
@@ -1568,15 +1582,15 @@ fighting?
 
 
 00:16:50,560 --> 00:16:51,160
-Noomomon!
+Numemon!
 
 
 00:16:51,300 --> 00:16:52,300
-Gigacannon!
+Giga Cannon!
 
 
 00:16:56,280 --> 00:16:57,740
-Oh, Noomomon!
+Oh, Numemon!
 
 
 00:16:58,740 --> 00:16:59,740
@@ -1591,84 +1605,36 @@ Oh!
 I feel the power!
 
 
-00:17:08,700 --> 00:17:09,100
-Gigimon!
+00:17:05,577 --> 00:17:07,577
+Agumon, warp-digivolve to...
 
 
-00:17:09,101 --> 00:17:09,640
-Digital Monsters!
-
-
-00:17:09,820 --> 00:17:11,000
-Digimon are the champions!
-
-
-00:17:11,720 --> 00:17:12,460
-Digimon!
-
-
-00:17:12,740 --> 00:17:13,740
-Digital Monsters!
-
-
-00:17:13,780 --> 00:17:14,980
-Digimon are the champions!
-
-
-00:17:17,860 --> 00:17:18,860
-What?
-
-
-00:17:20,220 --> 00:17:20,940
-Dwarf!
-
-
-00:17:21,180 --> 00:17:22,180
-Digimon!
-
-
-00:17:24,570 --> 00:17:25,570
-Digimon!
-
-
-00:17:26,010 --> 00:17:27,010
-Digital Monsters!
-
-
-00:17:31,130 --> 00:17:32,130
-Wargreymon!
-
-
-00:17:32,770 --> 00:17:35,170
-Digimon, digital monsters, Digimon.
+00:17:30,743 --> 00:17:32,130
+WarGreymon!
 
 
 00:17:37,770 --> 00:17:38,770
 Wake up!
 
 
-00:17:39,730 --> 00:17:40,730
-We'll
-
-
-00:17:57,680 --> 00:17:59,240
-finish you once and for all.
+00:17:56,953 --> 00:17:59,240
+Now I will finish you once and for all.
 
 
 00:17:59,560 --> 00:18:00,940
 I don't think so.
 
 
-00:18:01,360 --> 00:18:03,580
-You missed what I did as Wargreymon.
+00:18:01,773 --> 00:18:03,580
+You missed what I did as WarGreymon.
 
 
-00:18:03,900 --> 00:18:05,780
+00:18:04,207 --> 00:18:05,780
 I sliced you like an onion.
 
 
 00:18:27,550 --> 00:18:30,410
-Without Mashidramon, this area has become
+Without Machinedramon, this area has become
 unstable.
 
 
@@ -1702,8 +1668,8 @@ You're right.
 Let's go.
 
 
-00:18:47,620 --> 00:18:49,300
-Mashidramon City is dissolving.
+00:18:47,320 --> 00:18:49,300
+Machinedramon City is dissolving.
 
 
 00:18:49,620 --> 00:18:51,180
@@ -1711,16 +1677,16 @@ My work here is finished.
 
 
 00:18:52,100 --> 00:18:53,120
-Farewell, Andramon.
+Farewell, Andromon.
 
 
 00:18:53,300 --> 00:18:54,300
 Thank you.
 
 
-00:18:57,890 --> 00:19:02,230
+00:18:58,246 --> 00:19:02,230
 When we get down, can I build one of those
-memorials to my friend, the Numomon?
+memorials to my friend, the Numemon?
 
 
 00:19:02,610 --> 00:19:03,130
@@ -1743,12 +1709,12 @@ Yeah.
 You're next, Piedmon.
 
 
-00:19:11,810 --> 00:19:15,950
-Will the Digidestined be able to defeat
+00:19:12,130 --> 00:19:15,950
+Will the DigiDestined be able to defeat
 the most powerful Dark Master of all?
 
 
-00:19:15,951 --> 00:19:19,930
+00:19:16,350 --> 00:19:19,930
 Find out their fate on the next Digimon
 Digital Monsters.
 

@@ -1,5 +1,5 @@
 
-00:00:00,000 --> 00:00:04,180
+00:00:00,506 --> 00:00:04,180
 We had to get across town to find the
 eighth child, so he took the subway.
 
@@ -30,7 +30,7 @@ and Tentomon had to save him.
 
 
 00:00:20,820 --> 00:00:23,600
-Then Gesomon appeared, and Akakuman had to
+Then Gesomon appeared, and Ikkakumon had to
 take him out.
 
 
@@ -43,82 +43,13 @@ And to think, there are people who do this
 commute every day.
 
 
-00:00:40,980 --> 00:00:41,980
-Digimon!
-
-
-00:00:42,200 --> 00:00:43,200
-Digital Monsters!
-
-
-00:00:43,320 --> 00:00:44,580
-Digimon are the champions!
-
-
-00:00:49,080 --> 00:00:56,660
-Change into Digital Champions to save the
-Digital World!
-
-
-00:00:57,340 --> 00:00:57,960
-Digimon!
-
-
-00:00:58,180 --> 00:00:59,180
-Digital Monsters!
-
-
-00:00:59,280 --> 00:01:00,560
-Digimon are the champions!
-
-
-00:01:01,380 --> 00:01:01,980
-Digimon!
-
-
-00:01:02,160 --> 00:01:03,180
-Digital Monsters!
-
-
-00:01:03,280 --> 00:01:04,500
-Digimon are the champions!
-
-
-00:01:07,700 --> 00:01:08,300
-Digimon!
-
-
-00:01:08,580 --> 00:01:09,740
-Digital Monsters!
-
-
-00:01:17,560 --> 00:01:18,600
-Digimon are the champions!
-
-
-00:01:19,380 --> 00:01:19,980
-Digimon!
-
-
-00:01:20,200 --> 00:01:21,200
-Digital Monsters!
-
-
-00:01:21,280 --> 00:01:22,560
-Digimon are the champions!
-
-
-00:01:23,320 --> 00:01:24,320
-Digimon!
-
-
 00:01:28,570 --> 00:01:28,870
 Defeated?
 
 
 00:01:29,050 --> 00:01:31,790
 You say those little punks beat Mammothmon
-and Gasoman?
+and Gesomon?
 
 
 00:01:32,210 --> 00:01:32,530
@@ -126,7 +57,7 @@ Right!
 
 
 00:01:33,010 --> 00:01:35,950
-Gadamon really bungled it when she hooked
+Gatomon really bungled it when she hooked
 up with those nincompoops.
 
 
@@ -153,7 +84,7 @@ Aye, aye!
 
 
 00:01:46,810 --> 00:01:47,870
-My Otis Man rules!
+Myotismon rules!
 
 
 00:01:48,210 --> 00:01:49,210
@@ -161,7 +92,7 @@ You'll see!
 
 
 00:01:56,150 --> 00:02:00,190
-Gee, Ty, I sure hope that your sister
+Gee, Tai, I sure hope that your sister
 Kari's over her nasty cold.
 
 
@@ -187,7 +118,7 @@ Do you think it's possible that Kari's the
 eighth child?
 
 
-00:02:09,291 --> 00:02:10,430
+00:02:09,770 --> 00:02:10,430
 Here, Miko!
 
 
@@ -278,7 +209,7 @@ Hi!
 
 
 00:03:15,850 --> 00:03:16,850
-Ty?
+Tai?
 
 
 00:03:17,230 --> 00:03:18,250
@@ -329,7 +260,7 @@ Mom!
 
 
 00:03:34,430 --> 00:03:35,730
-Ty, did something happen?
+Tai, did something happen?
 
 
 00:03:36,610 --> 00:03:37,790
@@ -892,7 +823,7 @@ Can I have some more?
 
 
 00:08:12,890 --> 00:08:14,510
-Ty, this is your third helping.
+Tai, this is your third helping.
 
 
 00:08:14,730 --> 00:08:17,110
@@ -937,7 +868,7 @@ You're right about that, honey.
 
 
 00:08:51,460 --> 00:08:52,500
-What is it, Ty?
+What is it, Tai?
 
 
 00:08:52,640 --> 00:08:53,640
@@ -1036,23 +967,11 @@ Sleep tight, sleepyhead.
 Sweet dreams, you're party poopers.
 
 
-00:09:38,200 --> 00:09:39,200
-Oh.
-
-
-00:09:41,630 --> 00:09:42,630
-Oh.
-
-
 00:09:43,150 --> 00:09:43,490
 Oh.
 
 
-00:09:43,890 --> 00:09:44,110
-Oh.
-
-
-00:09:44,111 --> 00:09:45,410
+00:09:43,966 --> 00:09:45,410
 Miko, where are you?
 
 
@@ -1073,7 +992,7 @@ He's nearby!
 
 
 00:10:43,420 --> 00:10:46,620
-The A-child had better watch out,
+The eighth-child had better watch out,
 because he's a sick duck!
 
 
@@ -1136,7 +1055,7 @@ Ah!
 
 
 00:11:34,430 --> 00:11:35,430
-Tentamon!
+Tentomon!
 
 
 00:11:40,880 --> 00:11:42,900
@@ -1185,7 +1104,7 @@ No way!
 
 
 00:12:10,280 --> 00:12:13,040
-Jenna just told me that there's an
+Gennai just told me that there's an
 unidentified Digimon in the bay.
 
 
@@ -1216,7 +1135,7 @@ He's about as repulsive as they come.
 
 
 00:13:05,950 --> 00:13:07,730
-That Digimon is raremon.
+That Digimon is Raremon.
 
 
 00:13:08,370 --> 00:13:11,650
@@ -1267,55 +1186,27 @@ Do I have any other choice?
 
 
 00:13:33,830 --> 00:13:35,030
-Are you ready to Digibob?
+Are you ready to digivolve?
 
 
 00:13:35,250 --> 00:13:35,470
 Yep.
 
 
-00:13:35,650 --> 00:13:36,650
-Digimon.
-
-
-00:13:37,710 --> 00:13:41,920
-Digimon are the champions.
-
-
-00:13:42,740 --> 00:13:43,420
-Digimon.
-
-
-00:13:43,660 --> 00:13:44,660
-Digimon monsters.
-
-
-00:13:44,900 --> 00:13:45,940
-Digimon are the champions.
-
-
-00:13:50,380 --> 00:13:51,380
-Digimon.
-
-
 00:13:55,510 --> 00:13:57,210
-Tencomon Digibob 2.
+Tentomon digivolve to....
 
 
 00:14:03,100 --> 00:14:04,100
 Kabuterimon.
 
 
-00:14:05,340 --> 00:14:06,020
-Digimon.
-
-
-00:14:06,021 --> 00:14:08,200
+00:14:06,306 --> 00:14:08,200
 Look, it's my turn now.
 
 
 00:14:10,600 --> 00:14:12,160
-Ty, sweetheart, wake up.
+Tai, sweetheart, wake up.
 
 
 00:14:13,940 --> 00:14:15,080
@@ -1341,7 +1232,7 @@ I wonder what's up.
 
 
 00:14:25,100 --> 00:14:26,100
-Electro-sucker!
+Electro Shocker!
 
 
 00:14:26,820 --> 00:14:27,880
@@ -1377,7 +1268,7 @@ Can I help you?
 
 
 00:14:52,180 --> 00:14:53,260
-Oh, hello, Ty.
+Oh, hello, Tai.
 
 
 00:14:53,620 --> 00:14:55,040
@@ -1549,7 +1440,7 @@ located here in the city.
 
 
 00:17:18,011 --> 00:17:20,550
-It seems Ty had the right idea in the
+It seems Tai had the right idea in the
 first place.
 
 
@@ -1581,7 +1472,7 @@ It's very late.
 
 00:17:39,830 --> 00:17:41,590
 Maybe we should wait until morning,
-Tentamon.
+Tentomon.
 
 
 00:17:41,710 --> 00:17:44,010
@@ -1715,16 +1606,4 @@ The eighth what?
 
 00:18:59,680 --> 00:19:01,420
 What a pretty star!
-
-
-00:19:01,840 --> 00:19:02,160
-Ah!
-
-
-00:19:02,640 --> 00:19:02,780
-Ah!
-
-
-00:19:02,781 --> 00:19:03,781
-Ah!
 

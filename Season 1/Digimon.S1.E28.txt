@@ -1,6 +1,6 @@
 
-00:00:00,000 --> 00:00:03,355
-Genai really threw us for a
+00:00:00,473 --> 00:00:03,355
+Gennai really threw us for a
 loop when he told us there
 
 
@@ -42,85 +42,8 @@ Somehow we have to find a way to open that
 gate, but how?
 
 
-00:00:41,160 --> 00:00:41,920
-Digimon!
-
-
-00:00:42,160 --> 00:00:43,160
-Digital Monsters!
-
-
-00:00:43,220 --> 00:00:44,500
-Digimon are the champions!
-
-
-00:00:45,220 --> 00:00:45,980
-Digimon!
-
-
-00:00:46,120 --> 00:00:47,120
-Digital Monsters!
-
-
-00:00:47,220 --> 00:00:48,500
-Digimon are the champions!
-
-
-00:00:48,920 --> 00:00:56,580
-Change into Digital Champions to save the
-digital world!
-
-
-00:00:57,140 --> 00:00:57,900
-Digimon!
-
-
-00:00:58,140 --> 00:00:59,140
-Digital Monsters!
-
-
-00:00:59,220 --> 00:01:00,460
-Digimon are the champions!
-
-
-00:01:01,140 --> 00:01:01,900
-Digimon!
-
-
-00:01:02,100 --> 00:01:03,120
-Digital Monsters!
-
-
-00:01:03,220 --> 00:01:04,460
-Digimon are the champions!
-
-
-00:01:08,120 --> 00:01:09,620
-Digimon, N2 champions!
-
-
-00:01:17,480 --> 00:01:18,520
-Are the champions!
-
-
-00:01:19,520 --> 00:01:19,960
-Digimon!
-
-
-00:01:20,220 --> 00:01:21,220
-Digital monsters!
-
-
-00:01:21,300 --> 00:01:22,520
-Digimon are the champions!
-
-
-00:01:23,380 --> 00:01:24,380
-Digimon!
-
-
 00:01:28,860 --> 00:01:30,240
-Iota's man has shut the gate.
+Myotismon has shut the gate.
 
 
 00:01:30,380 --> 00:01:31,400
@@ -173,7 +96,7 @@ keys.
 
 
 00:01:52,940 --> 00:01:54,980
-Oh, don't be so mysterious, Jedi!
+Oh, don't be so mysterious, Gennai!
 
 
 00:01:55,400 --> 00:01:58,020
@@ -252,7 +175,7 @@ My beautiful hat!
 
 00:02:31,180 --> 00:02:35,320
 Either we got those directions really wrong
-or Jedi's house is in the middle of a lake.
+or Gennai's house is in the middle of a lake.
 
 
 00:02:35,660 --> 00:02:37,420
@@ -298,7 +221,7 @@ lake.
 
 
 00:03:01,490 --> 00:03:03,130
-They must lead to Jedi's house.
+They must lead to Gennai's house.
 
 
 00:03:03,690 --> 00:03:05,330
@@ -341,7 +264,7 @@ I don't see a doorbell.
 
 
 00:03:25,880 --> 00:03:26,880
-Hey, Mr. Jedi!
+Hey, Mr. Gennai!
 
 
 00:03:27,420 --> 00:03:27,900
@@ -362,7 +285,7 @@ Huh?
 
 
 00:03:32,400 --> 00:03:33,600
-It's the real Jedi!
+It's the real Gennai!
 
 
 00:03:33,960 --> 00:03:35,080
@@ -776,8 +699,8 @@ So if there are strange things here, they
 are the result of broken or missing data.
 
 
-00:07:05,161 --> 00:07:06,620
-What about you, Geni?
+00:07:05,654 --> 00:07:06,620
+What about you, Gennai?
 
 
 00:07:06,780 --> 00:07:08,860
@@ -795,7 +718,7 @@ somewhat different.
 
 
 00:07:13,640 --> 00:07:16,460
-But Geni, if you're not human,
+But Gennai, if you're not human,
 how are you different from Digimon?
 
 
@@ -976,7 +899,7 @@ I have done all I can do.
 
 00:08:42,080 --> 00:08:45,320
 I can no longer help you once you return
-to my Otismon's castle.
+to Myotismon's castle.
 
 
 00:08:45,860 --> 00:08:46,860
@@ -988,8 +911,8 @@ Man, this place looks even scarier than it
 did the first time.
 
 
-00:08:56,080 --> 00:08:57,980
-How do we get past the DaVidramon?
+00:08:56,400 --> 00:08:57,980
+How do we get past the Devidramon?
 
 
 00:08:58,140 --> 00:08:59,240
@@ -1004,38 +927,6 @@ I'll take him out while you go in.
 Mm-hmm.
 
 
-00:09:03,120 --> 00:09:04,120
-Digimon!
-
-
-00:09:05,360 --> 00:09:05,960
-Digimon!
-
-
-00:09:06,020 --> 00:09:06,620
-Digimon!
-
-
-00:09:06,940 --> 00:09:07,940
-Digimon!
-
-
-00:09:09,120 --> 00:09:10,120
-Digimon!
-
-
-00:09:10,660 --> 00:09:11,660
-Digimon!
-
-
-00:09:25,870 --> 00:09:26,470
-Digimon!
-
-
-00:09:26,890 --> 00:09:27,890
-Digimon!
-
-
 00:09:30,210 --> 00:09:31,410
 Mega Kabuterimon!
 
@@ -1048,8 +939,8 @@ Let's go!
 Now's our chance!
 
 
-00:09:37,770 --> 00:09:38,770
-Hornbuster!
+00:09:37,470 --> 00:09:38,770
+Horn Buster!
 
 
 00:09:43,810 --> 00:09:46,010
@@ -1057,11 +948,11 @@ Oh, so much for a quiet entrance.
 
 
 00:09:46,730 --> 00:09:47,730
-Hornbuster!
+Horn Buster!
 
 
 00:09:57,590 --> 00:09:58,590
-What happened, Issa?
+What happened, Izzy?
 
 
 00:09:58,810 --> 00:10:00,950
@@ -1138,7 +1029,7 @@ Maybe the key is in their names.
 
 
 00:10:32,191 --> 00:10:34,110
-Like, Agamon starts with A.
+Like, Agumon starts with A.
 
 
 00:10:34,210 --> 00:10:35,210
@@ -1158,7 +1049,7 @@ Izzy, what are you looking at?
 
 
 00:10:41,070 --> 00:10:43,490
-My Otismon used a spell to open the gate.
+Myotismon used a spell to open the gate.
 
 
 00:10:43,610 --> 00:10:45,930
@@ -1280,7 +1171,7 @@ them in the holes, and that'll be that.
 
 
 00:11:38,070 --> 00:11:38,710
-You, Ty.
+You, Tai.
 
 
 00:11:39,010 --> 00:11:39,370
@@ -1309,7 +1200,7 @@ I just think we all really believe in you.
 
 
 00:11:47,490 --> 00:11:47,830
-Ty?
+Tai?
 
 
 00:11:48,310 --> 00:11:48,670
@@ -1339,7 +1230,7 @@ Who made me a leader?
 
 00:11:56,090 --> 00:11:57,610
 Do you remember when you were gone,
-Ty?
+Tai?
 
 
 00:11:57,650 --> 00:11:59,410
@@ -1361,7 +1252,7 @@ Uh, yeah, I guess.
 
 
 00:12:04,370 --> 00:12:04,970
-Just do it, Ty!
+Just do it, Tai!
 
 
 00:12:05,230 --> 00:12:05,510
@@ -1394,7 +1285,7 @@ I have to remember we're a team.
 
 
 00:12:15,370 --> 00:12:15,970
-Come on, Ty.
+Come on, Tai.
 
 
 00:12:16,110 --> 00:12:16,690
@@ -1406,7 +1297,7 @@ Yeah, we have to believe in our friends.
 
 
 00:12:19,110 --> 00:12:20,430
-Remember what Jenai said?
+Remember what Gennai said?
 
 
 00:12:20,610 --> 00:12:22,550
@@ -1414,7 +1305,7 @@ Yeah, he said to believe in our power.
 
 
 00:12:22,551 --> 00:12:24,050
-You believe, don't you, Ty?
+You believe, don't you, Tai?
 
 
 00:12:24,490 --> 00:12:24,910
@@ -1432,11 +1323,11 @@ already.
 
 00:12:28,010 --> 00:12:30,730
 If we hadn't stuck together, we never
-would have beaten Sidramon.
+would have beaten Seadramon.
 
 
 00:12:30,830 --> 00:12:32,030
-Or smashed Tyrannomon.
+Or smashed Tyranomon.
 
 
 00:12:32,190 --> 00:12:33,470
@@ -1445,26 +1336,18 @@ Or escaped from Toy Town.
 
 00:12:33,750 --> 00:12:37,230
 And I'd still be making french fries in
-Vegemon's diner if you hadn't saved me.
+Vegiemon's diner if you hadn't saved me.
 
 
 00:12:37,410 --> 00:12:38,530
-You can do it, Ty.
+You can do it, Tai.
 
 
 00:12:38,730 --> 00:12:39,870
-You can do it, Ty!
+You can do it, Tai!
 
 
 00:12:41,810 --> 00:12:42,410
-All right.
-
-
-00:12:42,411 --> 00:12:42,430
-All right.
-
-
-00:12:42,910 --> 00:12:47,390
 All right.
 
 
@@ -1499,7 +1382,7 @@ Why me?
 
 
 00:13:02,310 --> 00:13:04,130
-If that's what Ty thinks, I accept it.
+If that's what Tai thinks, I accept it.
 
 
 00:13:04,310 --> 00:13:04,830
@@ -1511,7 +1394,7 @@ Don't worry, Izzy.
 
 
 00:13:06,130 --> 00:13:08,070
-Ty believes in you and so do the rest of
+Tai believes in you and so do the rest of
 us.
 
 
@@ -1595,7 +1478,7 @@ Give me your Digivice.
 
 
 00:13:53,300 --> 00:13:54,420
-Bro-digis!
+Prodigious!
 
 
 00:13:54,640 --> 00:13:55,660
@@ -1620,7 +1503,7 @@ and the monkey, would be Leomon,
 
 
 00:14:05,580 --> 00:14:07,000
-Centaruman, and Edemon.
+Centaruman, and Etemon.
 
 
 00:14:07,480 --> 00:14:09,880
@@ -1714,7 +1597,7 @@ I'll tell you in just a minute.
 
 
 00:14:57,640 --> 00:15:01,820
-It's Dogugumon, an evil Digimon with
+It's Dokugumon, an evil Digimon with
 computer virus parasites covering his body.
 
 
@@ -1723,59 +1606,43 @@ Intruders in the castle must be destroyed.
 
 
 00:15:04,800 --> 00:15:05,840
-Don't get them!
-
-
-00:15:10,860 --> 00:15:12,780
-Digimon, digital monsters.
-
-
-00:15:13,000 --> 00:15:14,340
-Digimon are the champions.
+Go, get them!
 
 
 00:15:14,900 --> 00:15:16,820
-Dogumon, Digiball too!
+Gomamon, digivolve to...
 
 
-00:15:18,600 --> 00:15:19,600
-Ikakuma!
+00:15:18,200 --> 00:15:19,600
+Ikkakumon!
 
 
 00:15:23,020 --> 00:15:24,980
-Kalamon, Digiball too!
+Palmon, digivolve to...
 
 
-00:15:26,120 --> 00:15:27,120
-Kalamon!
+00:15:25,806 --> 00:15:27,120
+Togemon!
 
 
-00:15:30,500 --> 00:15:31,500
-Kalamon!
+00:15:30,500 --> 00:15:32,400
+Gabumon, digivolve to...
 
 
-00:15:31,580 --> 00:15:32,680
-Digiball too!
-
-
-00:15:33,840 --> 00:15:34,840
-Kaluruma!
-
-
-00:15:35,820 --> 00:15:36,820
-Digimon!
+00:15:33,493 --> 00:15:34,840
+Garurumon!
 
 
 00:15:38,880 --> 00:15:40,100
 Blue Blaster!
 
 
-00:15:41,840 --> 00:15:45,120
+00:15:43,540 --> 00:15:45,120
 Hurry, hurry, hurry!
 
 
-00:15:45,420 --> 00:15:46,420
-We're running!
+00:15:45,420 --> 00:15:46,833
+We're running out of time!
 
 
 00:16:05,700 --> 00:16:07,380
@@ -1794,28 +1661,28 @@ Choose!
 If I choose wrong, we're toast!
 
 
-00:16:15,820 --> 00:16:17,120
+00:16:15,820 --> 00:16:17,360
 Poison Thread!
 
 
-00:16:19,840 --> 00:16:39,900
-The monsters too!
+00:16:31,257 --> 00:16:32,349
+Garurumon!
 
 
-00:16:40,120 --> 00:16:41,120
-The champions!
+00:16:32,430 --> 00:16:33,783
+Digivolve again!
 
 
-00:16:56,040 --> 00:16:58,400
-Monster friends to the boys and girls!
+00:16:41,163 --> 00:16:44,634
+Gazrurumon, digivolve to...
 
 
-00:16:58,800 --> 00:17:00,060
-Hey, Digimon, hey, Digimon!
+00:16:49,738 --> 00:16:51,738
+WereGarurumon!
 
 
-00:17:00,500 --> 00:17:04,380
-Ty, you've got to make up your mind now!
+00:17:02,749 --> 00:17:04,380
+Tai, you've got to make up your mind now!
 
 
 00:17:04,540 --> 00:17:05,540
@@ -1826,25 +1693,40 @@ We're out of time!
 Okay!
 
 
-00:17:07,140 --> 00:17:08,140
+00:17:07,409 --> 00:17:08,140
 It's this one!
 
 
-00:17:08,940 --> 00:17:10,880
-Monster friends to the boys and girls!
+00:17:09,276 --> 00:17:10,880
+Come on, now!
 
 
-00:17:11,360 --> 00:17:20,720
-Hey, Digimon, hey, Digimon!
+00:17:17,883 --> 00:17:19,956
+You're the one, Gomamon!
+Open the gate!
+
+
+00:17:22,870 --> 00:17:24,870
+- It's opening.
+- It worked.
+
+
+00:17:25,643 --> 00:17:26,664
+Come on!
+
+
+00:17:30,388 --> 00:17:31,635
+Leave him and come along.
+
+
+00:17:31,742 --> 00:17:33,888
+You'll never get out of here
+in one piece.
 
 
 00:17:41,930 --> 00:17:44,550
-It was real close, Zoonomon, but it looks
+It was real close, Tsunomon, but it looks
 like we made it!
-
-
-00:18:01,270 --> 00:18:02,270
-It looks like we made it!
 
 
 00:18:02,310 --> 00:18:03,110
@@ -1860,19 +1742,19 @@ This is the summer camp where we all met!
 
 
 00:18:06,890 --> 00:18:07,770
-You did it, Ty!
+You did it, Tai!
 
 
 00:18:07,910 --> 00:18:08,910
 We're home again!
 
 
-00:18:11,950 --> 00:18:14,970
+00:18:12,243 --> 00:18:14,970
 We're back to where we were first sucked
 into the digital world!
 
 
-00:18:15,210 --> 00:18:16,690
+00:18:15,429 --> 00:18:16,690
 But where are our Digimon?
 
 
@@ -1887,7 +1769,7 @@ them!
 
 
 00:18:22,910 --> 00:18:24,850
-You can't get rid of a study, Ty!
+You can't get rid of a study, Tai!
 
 
 00:18:26,550 --> 00:18:27,270
@@ -1954,7 +1836,7 @@ Broccoli?
 
 00:18:44,290 --> 00:18:46,530
 How did you know that my card was the
-fake, Ty?
+fake, Tai?
 
 
 00:18:46,531 --> 00:18:47,531
@@ -1982,8 +1864,8 @@ Yeah!
 
 
 00:18:55,570 --> 00:18:58,490
-And we've got to get a move on since my
-Otismond's there ahead of us!
+And we've got to get a move on since 
+Myotismon's there ahead of us!
 
 
 00:18:58,870 --> 00:19:01,530

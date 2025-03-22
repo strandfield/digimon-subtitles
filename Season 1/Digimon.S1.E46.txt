@@ -1,5 +1,5 @@
 
-00:00:00,000 --> 00:00:02,191
+00:00:00,514 --> 00:00:02,191
 Matt and I were having
 a disagreement when
 
@@ -16,7 +16,7 @@ first saw the Digimon four years ago.
 
 00:00:08,940 --> 00:00:11,766
 Next, we saw past images of
-Prydemon attempting to steal
+Piedmon attempting to steal
 
 
 00:00:11,767 --> 00:00:14,380
@@ -25,8 +25,8 @@ eventually become our Digimon.
 
 
 00:00:14,640 --> 00:00:18,140
-A young Jedi rescued the eggs and took
-them to the safety of Vile Island,
+A young Gennai rescued the eggs and took
+them to the safety of File Island,
 
 
 00:00:18,300 --> 00:00:19,340
@@ -48,72 +48,7 @@ If this keeps up, there won't be anyone
 left to save either world!
 
 
-00:00:41,200 --> 00:00:41,920
-Digimon!
-
-
-00:00:42,160 --> 00:00:43,160
-Digital Monsters!
-
-
-00:00:43,260 --> 00:00:44,480
-Digimon are the champions!
-
-
-00:00:45,240 --> 00:00:45,960
-Digimon!
-
-
-00:00:46,100 --> 00:00:47,120
-Digital Monsters!
-
-
-00:00:47,260 --> 00:00:48,480
-Digimon are the champions!
-
-
-00:00:49,060 --> 00:00:56,560
-Change into Digital Champions to save the
-Digital World!
-
-
-00:00:57,160 --> 00:00:57,880
-Digimon!
-
-
-00:00:58,120 --> 00:00:59,120
-Digital Monsters!
-
-
-00:00:59,280 --> 00:01:00,480
-Digimon are the champions!
-
-
-00:01:01,200 --> 00:01:01,920
-Digimon!
-
-
-00:01:02,100 --> 00:01:03,120
-Digital Monsters!
-
-
-00:01:03,240 --> 00:01:04,480
-Digimon are the champions!
-
-
-00:01:07,400 --> 00:01:08,120
-Digimon!
-
-
-00:01:08,320 --> 00:01:08,360
-Digital Monsters!
-
-
-00:01:08,361 --> 00:01:09,401
-Digimon are the champions!
-
-
-00:01:34,680 --> 00:01:36,640
+00:01:35,093 --> 00:01:36,640
 Get away from me, you pile of Woodmon.
 
 
@@ -131,7 +66,7 @@ energy from unsuspecting
 Digimon as they pass by.
 
 
-00:01:46,780 --> 00:01:48,580
+00:01:47,087 --> 00:01:48,580
 This is your last warning.
 
 
@@ -145,7 +80,7 @@ an Ogremon could chuck Woodmon?
 
 
 00:01:55,220 --> 00:01:56,220
-Pummelwhats!
+Pummel Whack!
 
 
 00:02:00,620 --> 00:02:02,600
@@ -251,7 +186,7 @@ I was just trying to lend a friendly ear.
 
 
 00:02:47,221 --> 00:02:48,660
-I know you were, Gomomon.
+I know you were, Gomamon.
 
 
 00:02:48,920 --> 00:02:49,400
@@ -336,7 +271,7 @@ Let's go check it out!
 
 
 00:03:50,780 --> 00:03:51,780
-I don't know, Ty.
+I don't know, Tai.
 
 
 00:03:51,820 --> 00:03:52,820
@@ -380,7 +315,7 @@ our worlds will be destroyed!
 
 
 00:04:11,960 --> 00:04:13,060
-Let's do it, Ty!
+Let's do it, Tai!
 
 
 00:04:13,520 --> 00:04:13,740
@@ -428,7 +363,7 @@ The ayes have it!
 
 
 00:04:31,280 --> 00:04:32,460
-Ty, you didn't vote.
+Tai, you didn't vote.
 
 
 00:04:32,820 --> 00:04:34,120
@@ -441,7 +376,7 @@ route.
 
 
 00:04:37,040 --> 00:04:38,100
-So Ty, what do you think?
+So Tai, what do you think?
 
 
 00:04:38,560 --> 00:04:39,680
@@ -454,7 +389,7 @@ sure nothing happens to him.
 
 
 00:04:42,860 --> 00:04:43,780
-What should we do, Ty?
+What should we do, Tai?
 
 
 00:04:43,781 --> 00:04:46,460
@@ -503,7 +438,7 @@ looking for trouble.
 
 00:05:05,560 --> 00:05:07,721
 But if anything happens,
-Coromon and I will hold
+Koromon and I will hold
 
 
 00:05:07,722 --> 00:05:09,720
@@ -552,7 +487,7 @@ There it is!
 The meteor landed up on that cliff!
 
 
-00:05:32,380 --> 00:05:34,900
+00:05:32,780 --> 00:05:34,900
 I wonder where on earth it could have come
 from?
 
@@ -667,7 +602,7 @@ This cat looks bad!
 
 
 00:06:23,010 --> 00:06:24,610
-You're the Digi Destin!
+You're the DigiDestined!
 
 
 00:06:24,770 --> 00:06:27,990
@@ -804,7 +739,7 @@ me?
 
 00:07:18,030 --> 00:07:21,430
 Especially after the way I tried to
-destroy you on Vile Island.
+destroy you on File Island.
 
 
 00:07:21,630 --> 00:07:24,550
@@ -875,7 +810,7 @@ Well, you have them now.
 
 
 00:07:51,770 --> 00:07:53,930
-I've never seen Obermann cry before.
+I've never seen Ogremon cry before.
 
 
 00:07:54,730 --> 00:07:57,190
@@ -908,11 +843,11 @@ Here's a riddle.
 
 
 00:08:03,690 --> 00:08:05,910
-What has four strings and is made of what?
+What has four strings and is made of wood?
 
 
-00:08:06,730 --> 00:08:07,730
-Togamon!
+00:08:06,413 --> 00:08:07,730
+Puppetmon!
 
 
 00:08:08,170 --> 00:08:08,610
@@ -948,7 +883,7 @@ I can also play a really mean saxophone.
 
 
 00:08:19,330 --> 00:08:20,370
-I've got a digi-ball!
+I've got a digivolve!
 
 
 00:08:20,790 --> 00:08:21,790
@@ -960,98 +895,24 @@ Oh, no.
 
 
 00:08:24,010 --> 00:08:26,250
-What if Togamon gets hurt during the
+What if Togemon gets hurt during the
 fight?
 
 
 00:08:27,190 --> 00:08:28,750
-Go Momon, digi-volve!
+Gomamon, digivolve!
 
 
 00:08:28,830 --> 00:08:29,170
 Right!
 
 
-00:08:29,510 --> 00:08:30,510
-Digimon!
-
-
-00:08:31,530 --> 00:08:32,270
-Digimon!
-
-
-00:08:32,430 --> 00:08:33,430
-Digimon!
-
-
-00:08:33,830 --> 00:08:35,930
-Digital monsters, Digimon are the
-truck-gills!
-
-
-00:08:36,410 --> 00:08:37,150
-Digimon!
-
-
-00:08:37,410 --> 00:08:39,950
-Digital monsters, Digimon are the
-truck-gills!
-
-
-00:08:56,180 --> 00:08:57,700
-The Kaku-mon!
-
-
-00:08:59,100 --> 00:08:59,840
-Digimon!
-
-
-00:08:59,960 --> 00:09:00,960
-Harpoon torpedo!
+00:08:59,960 --> 00:09:01,446
+Harpoon Torpedo!
 
 
 00:09:02,080 --> 00:09:03,080
 Arrgh!
-
-
-00:09:06,020 --> 00:09:07,020
-Huh?
-
-
-00:09:18,500 --> 00:09:19,500
-Digimon!
-
-
-00:09:20,200 --> 00:09:20,640
-Digimon!
-
-
-00:09:21,060 --> 00:09:21,760
-The truck-gills!
-
-
-00:09:21,980 --> 00:09:23,040
-The Kaku-mon!
-
-
-00:09:23,600 --> 00:09:24,040
-Digimon!
-
-
-00:09:24,340 --> 00:09:25,340
-Dude!
-
-
-00:10:15,780 --> 00:10:16,220
-Whoa!
-
-
-00:10:16,700 --> 00:10:17,700
-Whoa!
-
-
-00:10:17,900 --> 00:10:18,900
-Whoa!
 
 
 00:10:21,240 --> 00:10:21,960
@@ -1059,7 +920,7 @@ Get Digi with it!
 
 
 00:10:22,060 --> 00:10:23,520
-Metal Edamon's in the house!
+MetalEtemon's in the house!
 
 
 00:10:28,440 --> 00:10:31,400
@@ -1077,11 +938,11 @@ Oh, no!
 
 
 00:10:36,460 --> 00:10:37,140
-It's Edamon!
+It's Etemon!
 
 
 00:10:37,340 --> 00:10:39,720
-I used to be Edamon, kid, but that was a
+I used to be Etemon, kid, but that was a
 long time ago.
 
 
@@ -1094,7 +955,7 @@ Now?
 
 
 00:10:41,200 --> 00:10:42,500
-I'm Metal Edamon!
+I'm MetalEtemon!
 
 
 00:10:42,720 --> 00:10:43,340
@@ -1106,15 +967,15 @@ Oh, thank you very much!
 
 
 00:10:44,480 --> 00:10:45,800
-We thought Edamon was tough!
+We thought Etemon was tough!
 
 
 00:10:46,180 --> 00:10:48,000
-Metal Edamon's a Mega Digimon!
+MetalEtemon's a Mega Digimon!
 
 
 00:10:48,240 --> 00:10:50,860
-After his banana slip attack, he'll have
+After his Banana Slip attack, he'll have
 to peel us off the floor!
 
 
@@ -1131,7 +992,7 @@ Let me tell you how I became me!
 
 
 00:10:58,880 --> 00:11:02,060
-Now here's what inspired when an Edamon
+Now here's what inspired when an Etemon
 expired!
 
 
@@ -1141,7 +1002,7 @@ Listen up, baby!
 
 00:11:03,400 --> 00:11:06,240
 I'm sure you all remember the battle I had
-with Metal Grandma!
+with MetalGreymon!
 
 
 00:11:06,520 --> 00:11:08,460
@@ -1188,12 +1049,12 @@ and had a full head of beautiful metal
 hair!
 
 
-00:11:36,200 --> 00:11:39,280
+00:11:36,200 --> 00:11:39,986
 Now I'm back to get my revenge on you,
-Digidistant!
+DigiDestined!
 
 
-00:11:40,080 --> 00:11:43,420
+00:11:40,540 --> 00:11:43,420
 I got the low-down dirty revengeful!
 
 
@@ -1202,7 +1063,7 @@ Now!
 
 
 00:11:45,280 --> 00:11:48,540
-I'm talkin' big-time Digidistant!
+I'm talkin' big-time DigiDestined!
 
 
 00:11:49,120 --> 00:11:49,720
@@ -1223,7 +1084,7 @@ Watch your step!
 
 
 00:11:55,480 --> 00:11:56,480
-Banana slip!
+Banana Slip!
 
 
 00:11:56,940 --> 00:11:58,500
@@ -1234,12 +1095,8 @@ Too much of a wax and build-up?
 Uh-huh!
 
 
-00:11:59,200 --> 00:11:59,640
-Puppet!
-
-
-00:11:59,740 --> 00:12:00,740
-Palmer!
+00:11:59,200 --> 00:12:00,740
+Puppet Pummel!
 
 
 00:12:00,960 --> 00:12:02,520
@@ -1247,7 +1104,7 @@ I'll use you as a toothpick!
 
 
 00:12:06,220 --> 00:12:07,420
-Metal power!
+Metal Punch!
 
 
 00:12:08,700 --> 00:12:09,700
@@ -1299,7 +1156,7 @@ Her attack is Reign of Pollen!
 
 00:12:40,851 --> 00:12:43,750
 And the other
-guard is... Daramon!
+guard is... Deramon!
 
 
 00:12:43,930 --> 00:12:46,042
@@ -1359,7 +1216,7 @@ You guys wait here until I get back!
 
 
 00:13:03,350 --> 00:13:05,430
-Ty, I think Padamon and I should go with
+Tai, I think Patamon and I should go with
 you!
 
 
@@ -1377,7 +1234,7 @@ Sorry, it might be dangerous!
 
 
 00:13:11,330 --> 00:13:11,870
-Come on, Ty!
+Come on, Tai!
 
 
 00:13:11,990 --> 00:13:13,310
@@ -1406,7 +1263,7 @@ go together!
 
 
 00:13:20,290 --> 00:13:21,170
-What do we do, Ty?
+What do we do, Tai?
 
 
 00:13:21,290 --> 00:13:21,750
@@ -1423,22 +1280,6 @@ We're going!
 
 00:13:24,030 --> 00:13:24,710
 Follow me!
-
-
-00:13:24,711 --> 00:13:25,711
-Oh!
-
-
-00:13:26,970 --> 00:13:27,490
-Oh!
-
-
-00:13:27,850 --> 00:13:28,190
-Oh!
-
-
-00:13:28,490 --> 00:13:28,590
-Oh!
 
 
 00:13:28,591 --> 00:13:28,870
@@ -1461,8 +1302,13 @@ I hate tickling!
 Come on!
 
 
-00:13:37,330 --> 00:13:40,620
-We're gone!
+00:13:37,530 --> 00:13:39,530
+Now I can finally take care
+of those kids.
+
+
+00:13:40,143 --> 00:13:40,797
+They're gone!
 
 
 00:13:40,960 --> 00:13:43,160
@@ -1512,7 +1358,7 @@ Who needs him, anyway?
 
 
 00:14:00,880 --> 00:14:02,640
-I can find old DigiDestine myself!
+I can find old DigiDestined myself!
 
 
 00:14:02,780 --> 00:14:04,760
@@ -1524,31 +1370,7 @@ detector!
 Let's go!
 
 
-00:14:06,860 --> 00:14:07,860
-Digimon!
-
-
-00:14:09,100 --> 00:14:09,640
-Digimon!
-
-
-00:14:09,980 --> 00:14:10,980
-Digimon!
-
-
-00:14:11,020 --> 00:14:12,020
-Digimon!
-
-
-00:14:17,050 --> 00:14:18,050
-Digimon Captain!
-
-
-00:14:19,010 --> 00:14:20,410
-Caramon Digimon 2!
-
-
-00:14:23,140 --> 00:14:24,180
+00:14:23,366 --> 00:14:24,180
 Super Shocker!
 
 
@@ -1557,7 +1379,7 @@ Go get him!
 
 
 00:14:25,740 --> 00:14:26,740
-Pepper Bread!
+Pepper Breath!
 
 
 00:14:27,440 --> 00:14:27,980
@@ -1659,7 +1481,7 @@ termites!
 
 
 00:15:10,520 --> 00:15:11,780
-So what should we do, Ty?
+So what should we do, Tai?
 
 
 00:15:12,000 --> 00:15:14,340
@@ -1668,7 +1490,7 @@ inside the mansion.
 
 
 00:15:14,740 --> 00:15:16,280
-Terramon, will you show us around?
+Deramon, will you show us around?
 
 
 00:15:16,440 --> 00:15:18,640
@@ -1731,7 +1553,7 @@ acts of kindness.
 
 00:15:50,400 --> 00:15:53,200
 It's part of my sacred moral code as an
-ogre-mon.
+Ogremon.
 
 
 00:15:53,900 --> 00:15:55,160
@@ -1768,9 +1590,9 @@ It's a jack-in-the-box with a serious
 attitude!
 
 
-00:16:17,521 --> 00:16:21,640
+00:16:18,341 --> 00:16:21,640
 You wouldn't happen to be leading us into
-some sort of trap, would you, Dara-mon?
+some sort of trap, would you, Deramon?
 
 
 00:16:21,940 --> 00:16:23,060
@@ -1783,12 +1605,12 @@ anything as deceitful as
 
 
 00:16:25,012 --> 00:16:27,941
-Puppet-mon, cross my
+Puppetmon, cross my
 wings and hope to fly, honest!
 
 
 00:16:28,300 --> 00:16:29,620
-I believe him, Ty.
+I believe him, Tai.
 
 
 00:16:29,800 --> 00:16:30,800
@@ -1840,7 +1662,7 @@ Sorry!
 
 
 00:16:54,180 --> 00:16:56,320
-Ogre-mon, can I ask you a personal
+Ogremon, can I ask you a personal
 question?
 
 
@@ -1857,7 +1679,7 @@ That's not what I was going to ask.
 
 
 00:17:00,420 --> 00:17:01,740
-Why do you fight with Le-mon?
+Why do you fight with Leomon?
 
 
 00:17:01,980 --> 00:17:02,640
@@ -1952,7 +1774,7 @@ I don't care what happens.
 
 00:17:42,920 --> 00:17:45,240
 I'll think about it after I've defeated
-Le-mon.
+Leomon.
 
 
 00:17:45,580 --> 00:17:46,940
@@ -1984,7 +1806,7 @@ Who should I play with next?
 
 
 00:17:57,300 --> 00:17:58,540
-Puppet-mon's coming back.
+Puppetmon's coming back.
 
 
 00:17:58,940 --> 00:17:59,940
@@ -2014,7 +1836,7 @@ All right, what the heck, I'll do it.
 
 
 00:18:09,540 --> 00:18:10,500
-But don't tell Puppet-mon.
+But don't tell Puppetmon.
 
 
 00:18:10,540 --> 00:18:11,620
@@ -2054,11 +1876,11 @@ I can see him coming.
 
 
 00:18:22,760 --> 00:18:24,300
-Take this, Puppet-mon!
+Take this, Puppetmon!
 
 
 00:18:32,130 --> 00:18:33,570
-It's the Digi-dustin!
+It's the DigiDestined!
 
 
 00:18:43,970 --> 00:18:45,410
@@ -2078,17 +1900,17 @@ Who is this new creature?
 
 
 00:19:15,260 --> 00:19:16,820
-Could he be Ogre-mon's arch-rival?
+Could he be Ogremon's arch-rival?
 
 
 00:19:17,080 --> 00:19:18,814
-And will Puppet-mon
-escape Der-mon's cannon
+And will Puppetmon
+escape Deramon's cannon
 
 
 00:19:18,815 --> 00:19:20,860
 blast to take his revenge
-on the Digi-dustin?
+on the DigiDestined?
 
 
 00:19:21,100 --> 00:19:24,720

@@ -1,5 +1,5 @@
 
-00:00:00,000 --> 00:00:03,460
+00:00:00,460 --> 00:00:03,460
 We found Andromon trapped inside a
 mysterious factory.
 
@@ -21,50 +21,22 @@ perimeter was operational.
 
 00:00:15,940 --> 00:00:19,600
 Accessing the mainframe, I somehow tapped
-into Tentamon's program.
+into Tentomon's program.
 
 
 00:00:20,340 --> 00:00:23,237
-He digivalve to
+He digivolved to
 Kabuterimon, and with the help
 
 
 00:00:23,238 --> 00:00:26,140
-of Raymon and Golurumon,
+of Greymon and Garurumon,
 he defeated Andromon.
 
 
 00:00:26,141 --> 00:00:30,480
 Apparently Andromon's programming had been
 corrupted by another black gear.
-
-
-00:01:04,130 --> 00:01:04,690
-Digimon!
-
-
-00:01:04,770 --> 00:01:05,790
-Digi-go monsters!
-
-
-00:01:06,010 --> 00:01:07,270
-Digimon are the champions!
-
-
-00:01:10,570 --> 00:01:11,570
-Digimon!
-
-
-00:01:23,520 --> 00:01:24,520
-Digi-go monsters!
-
-
-00:01:24,800 --> 00:01:26,100
-Digimon are the champions!
-
-
-00:01:26,980 --> 00:01:27,980
-Digimon!
 
 
 00:01:32,960 --> 00:01:36,668
@@ -211,7 +183,7 @@ It's okay to miss your home, Sora.
 
 
 00:02:54,230 --> 00:02:55,410
-What do you miss, Ty?
+What do you miss, Tai?
 
 
 00:02:55,630 --> 00:02:55,830
@@ -734,7 +706,7 @@ Huh!
 
 
 00:08:15,360 --> 00:08:16,640
-Poist and Ivy!
+Poison Ivy!
 
 
 00:08:22,360 --> 00:08:22,920
@@ -754,7 +726,7 @@ Why'd they run?
 
 
 00:08:31,760 --> 00:08:33,000
-It's Monzymon.
+It's Monzaemon.
 
 
 00:08:36,200 --> 00:08:38,100
@@ -762,7 +734,7 @@ Come visit us at Toy Town.
 
 
 00:08:38,580 --> 00:08:42,740
-Monzymon looked like a cute big old teddy
+Monzaemon looked like a cute big old teddy
 bear, but he wasn't very cuddly.
 
 
@@ -1119,11 +1091,11 @@ What happened?
 
 
 00:12:06,600 --> 00:12:07,920
-We were running from the Numamon!
+We were running from the Numemon!
 
 
 00:12:15,290 --> 00:12:17,090
-Then Manziman came along!
+Then Monzaemon came along!
 
 
 00:12:17,091 --> 00:12:18,091
@@ -1143,7 +1115,7 @@ We tried to fight back!
 
 
 00:12:38,690 --> 00:12:39,730
-Pepper Bread!
+Pepper Breath!
 
 
 00:12:43,410 --> 00:12:44,590
@@ -1159,7 +1131,7 @@ Run!
 
 
 00:12:48,850 --> 00:12:49,890
-Hearts attack!
+Hearts Attack!
 
 
 00:12:50,230 --> 00:12:51,230
@@ -1172,11 +1144,11 @@ to be!
 
 
 00:13:05,560 --> 00:13:06,560
-Spiral Twins here!
+Spiral Twister!
 
 
 00:13:10,340 --> 00:13:11,340
-Hearts attack!
+Hearts Attack!
 
 
 00:13:11,460 --> 00:13:12,460
@@ -1184,7 +1156,7 @@ Foos Doom!
 
 
 00:13:12,890 --> 00:13:13,890
-Zara!
+Sora!
 
 
 00:13:16,730 --> 00:13:19,030
@@ -1200,15 +1172,11 @@ Blue Blaster!
 
 
 00:13:31,650 --> 00:13:32,750
-Hearts attack!
+Hearts Attack!
 
 
-00:13:34,310 --> 00:13:35,310
-Going
-
-
-00:13:50,300 --> 00:13:51,880
-into our community toy box!
+00:13:49,726 --> 00:13:51,880
+You're all going into our community toy box!
 
 
 00:13:52,100 --> 00:13:53,980
@@ -1232,7 +1200,7 @@ The toys have been playing with them!
 
 
 00:14:06,320 --> 00:14:08,660
-Aku, tell us, what changed Manziman?
+Aku, tell us, what changed Monzaemon?
 
 
 00:14:09,040 --> 00:14:10,040
@@ -1269,7 +1237,7 @@ Just what do you mean?
 
 
 00:14:20,100 --> 00:14:21,840
-You must defeat Manziman!
+You must defeat Monzaemon!
 
 
 00:14:22,680 --> 00:14:23,200
@@ -1302,7 +1270,7 @@ I have to tell you, this isn't good!
 
 
 00:14:38,140 --> 00:14:41,320
-Manziman's hearts aren't supposed to
+Monzaemon's hearts aren't supposed to
 attack, only give heart hugs!
 
 
@@ -1348,7 +1316,7 @@ Oh!
 
 
 00:15:05,340 --> 00:15:06,340
-Manziman!
+Monzaemon!
 
 
 00:15:06,480 --> 00:15:07,540
@@ -1384,8 +1352,8 @@ Don't run away from Toy Town!
 I'll save you, honey!
 
 
-00:15:45,480 --> 00:15:45,920
-Mamamon!
+00:15:45,353 --> 00:15:45,920
+Numemon!
 
 
 00:15:46,040 --> 00:15:47,680
@@ -1393,7 +1361,7 @@ You turn him down and he still helps!
 
 
 00:15:52,830 --> 00:15:54,510
-Well, Pelman, what can I say?
+Well, Palmon, what can I say?
 
 
 00:15:54,650 --> 00:15:56,090
@@ -1417,7 +1385,7 @@ I can't let them fight alone!
 
 
 00:16:04,630 --> 00:16:05,630
-Pelman, be careful!
+Palmon, be careful!
 
 
 00:16:06,310 --> 00:16:07,310
@@ -1429,7 +1397,7 @@ Poison Ivy!
 
 
 00:16:15,570 --> 00:16:17,330
-Pelman, please talk to me!
+Palmon, please talk to me!
 
 
 00:16:17,470 --> 00:16:19,410
@@ -1486,7 +1454,7 @@ from the spell and the
 
 
 00:18:18,302 --> 00:18:21,601
-trunk, Manzaman told
+trunk, Monzaemon told
 us what really happened!
 
 
@@ -1555,7 +1523,7 @@ Really!
 
 
 00:18:49,840 --> 00:18:52,500
-Manzaman, we know that you would never
+Monzaemon, we know that you would never
 hurt us on purpose!
 
 
@@ -1586,7 +1554,7 @@ That's right!
 
 
 00:19:07,740 --> 00:19:10,180
-But me and Palmon made Manzaman good
+But me and Palmon made Monzaemon good
 again!
 
 

@@ -1,42 +1,4 @@
 
-00:00:12,760 --> 00:00:13,760
-Digimon!
-
-
-00:00:14,000 --> 00:00:15,000
-Digital Monsters!
-
-
-00:00:15,060 --> 00:00:16,380
-Digimon are the champions!
-
-
-00:00:21,280 --> 00:00:29,000
-Change into Digital Champions to save the
-digital world!
-
-
-00:00:29,760 --> 00:00:30,380
-Digimon!
-
-
-00:00:30,600 --> 00:00:31,640
-Digital Monsters!
-
-
-00:00:31,820 --> 00:00:33,060
-Digimon are the champions!
-
-
-00:00:40,640 --> 00:00:42,620
-Digimon is your champions!
-
-
-00:00:49,250 --> 00:00:51,930
-Digital Monsters, Digimon are the
-champions!
-
-
 00:01:04,000 --> 00:01:05,000
 That's home.
 
@@ -116,7 +78,7 @@ six other kids.
 
 
 00:01:47,280 --> 00:01:48,860
-Oh, by the way, my name's Ty.
+Oh, by the way, my name's Tai.
 
 
 00:01:49,720 --> 00:01:50,000
@@ -437,19 +399,15 @@ Woohoo!
 
 
 00:05:09,640 --> 00:05:10,640
-Ty!
+Tai!
 
 
 00:05:11,220 --> 00:05:12,640
 Yeah, I'm okay.
 
 
-00:05:18,470 --> 00:05:19,470
-Last
-
-
-00:05:23,580 --> 00:05:24,680
-time I ate camp food.
+00:05:22,913 --> 00:05:24,680
+That's the last time I ate camp food.
 
 
 00:05:25,000 --> 00:05:26,000
@@ -466,7 +424,7 @@ Have you had your rabies shots?
 
 00:05:35,210 --> 00:05:36,870
 Everything's gonna be alright now,
-Ty!
+Tai!
 
 
 00:05:37,150 --> 00:05:38,410
@@ -478,7 +436,7 @@ Waiting for me?
 
 
 00:05:40,610 --> 00:05:42,190
-My name's Coralmon.
+My name's Koromon.
 
 
 00:05:42,730 --> 00:05:44,310
@@ -486,7 +444,7 @@ And we're partners!
 
 
 00:05:45,110 --> 00:05:46,110
-Coralmon?
+Koromon?
 
 
 00:05:47,650 --> 00:05:49,150
@@ -502,7 +460,7 @@ It means brave little warrior.
 
 
 00:05:52,270 --> 00:05:53,350
-And don't forget it, Ty!
+And don't forget it, Tai!
 
 
 00:05:53,351 --> 00:05:56,470
@@ -515,7 +473,7 @@ And how did you know my name?
 
 
 00:05:58,690 --> 00:05:59,050
-Ty?
+Tai?
 
 
 00:05:59,550 --> 00:05:59,870
@@ -536,7 +494,7 @@ following me everywhere.
 
 
 00:06:05,250 --> 00:06:07,910
-It is me, Multimon, at your service.
+It is me, Motimon, at your service.
 
 
 00:06:08,050 --> 00:06:09,070
@@ -556,7 +514,7 @@ Oh, allow me to introduce myself.
 
 
 00:06:16,810 --> 00:06:18,810
-My friends call me Multimon.
+My friends call me Motimon.
 
 
 00:06:18,811 --> 00:06:20,490
@@ -591,7 +549,7 @@ Nothing is common in Digi World!
 
 
 00:06:37,410 --> 00:06:38,410
-That's right, Ty!
+That's right, Tai!
 
 
 00:06:38,470 --> 00:06:39,770
@@ -641,7 +599,7 @@ help much.
 
 
 00:07:12,410 --> 00:07:13,410
-Hey, Ty!
+Hey, Tai!
 
 
 00:07:13,710 --> 00:07:14,410
@@ -714,7 +672,7 @@ No!
 
 
 00:07:46,741 --> 00:07:47,741
-His name is Quagamon.
+His name is Kuwagamon.
 
 
 00:07:47,940 --> 00:07:49,500
@@ -739,7 +697,7 @@ Help!
 
 
 00:08:07,460 --> 00:08:08,460
-Ty, you okay?
+Tai, you okay?
 
 
 00:08:08,660 --> 00:08:10,340
@@ -756,7 +714,7 @@ What's your name?
 
 
 00:08:18,980 --> 00:08:19,540
-Coromod?
+Koromon?
 
 
 00:08:19,800 --> 00:08:20,800
@@ -855,7 +813,7 @@ Welcome!
 
 
 00:09:46,451 --> 00:09:48,830
-I, Izzy, meet Yokomon.
+Tai, Izzy, meet Yokomon.
 
 
 00:09:49,130 --> 00:09:51,550
@@ -969,7 +927,7 @@ A no-stuffed animal.
 
 
 00:10:50,560 --> 00:10:52,140
-The name is Pokemon.
+The name is Bukamon.
 
 
 00:10:58,620 --> 00:10:59,900
@@ -1055,7 +1013,7 @@ It's a pleasure to meet each of you!
 
 
 00:11:39,920 --> 00:11:42,020
-My name's Ty and these are my friends from
+My name's Tai and these are my friends from
 camp!
 
 
@@ -1069,7 +1027,7 @@ Nice place you got here, except the bugs!
 
 00:11:47,880 --> 00:11:50,420
 And the self-proclaimed cool one over
-there is mad!
+there is Matt!
 
 
 00:11:50,800 --> 00:11:52,060
@@ -1171,7 +1129,7 @@ Don't worry.
 
 
 00:12:47,880 --> 00:12:49,240
-Tandamon's here to protect you.
+Tanemon's here to protect you.
 
 
 00:12:50,180 --> 00:12:51,320
@@ -1236,7 +1194,7 @@ Anybody bring a helicopter?
 
 
 00:13:51,680 --> 00:13:53,120
-Be careful, Ty!
+Be careful, Tai!
 
 
 00:13:55,640 --> 00:13:56,960
@@ -1252,11 +1210,11 @@ Another way where?
 
 
 00:14:45,460 --> 00:14:46,460
-Yoko-mon!
+Yokomon!
 
 
 00:14:50,160 --> 00:14:51,240
-Yoko-mon!
+Yokomon!
 
 
 00:14:51,620 --> 00:14:52,740
@@ -1277,11 +1235,11 @@ Crazy guy.
 
 
 00:15:04,300 --> 00:15:06,260
-Oh... Yoko-mon!
+Oh... Yokomon!
 
 
 00:15:07,020 --> 00:15:08,740
-Tandamon, talk to me!
+Tanemon, talk to me!
 
 
 00:15:09,640 --> 00:15:11,920
@@ -1289,7 +1247,7 @@ They must be programmed for courage.
 
 
 00:15:12,340 --> 00:15:13,440
-Tukumon, what's wrong?
+Tokomon, what's wrong?
 
 
 00:15:13,880 --> 00:15:15,280
@@ -1297,7 +1255,7 @@ Hey, Tsunumon, wake up!
 
 
 00:15:16,340 --> 00:15:16,860
-Bukumon?
+Bukamon?
 
 
 00:15:17,180 --> 00:15:18,180
@@ -1312,12 +1270,8 @@ Oh no!
 Get back!
 
 
-00:15:28,350 --> 00:15:29,350
-I
-
-
-00:15:31,920 --> 00:15:33,740
-was hoping we'd seen the last of him!
+00:15:31,716 --> 00:15:33,740
+I was hoping we'd seen the last of him!
 
 
 00:15:34,460 --> 00:15:35,460
@@ -1362,7 +1316,7 @@ Give it up, will ya?
 
 
 00:16:01,680 --> 00:16:02,820
-No, Kuromon's right!
+No, Koromon's right!
 
 
 00:16:02,980 --> 00:16:04,780
@@ -1387,7 +1341,7 @@ It's hopeless!
 
 
 00:16:08,681 --> 00:16:10,660
-You're no match for him, Yoko-mon!
+You're no match for him, Yokomon!
 
 
 00:16:11,880 --> 00:16:14,280
@@ -1404,7 +1358,7 @@ Let me go, let me go, let me go!
 
 
 00:16:18,200 --> 00:16:19,200
-Tanymon, you too?
+Tanemon, you too?
 
 
 00:16:19,940 --> 00:16:20,940
@@ -1424,7 +1378,7 @@ It's useless!
 
 
 00:16:33,700 --> 00:16:34,700
-Yoko-mon!
+Yokomon!
 
 
 00:16:35,440 --> 00:16:39,480
@@ -1432,7 +1386,7 @@ Don't go-No, wait!
 
 
 00:16:40,100 --> 00:16:41,440
-Don't do it, Zuma-mon!
+Don't do it, Tsunomon!
 
 
 00:16:42,200 --> 00:16:43,200
@@ -1448,12 +1402,12 @@ Uh-huh!
 
 
 00:17:22,470 --> 00:17:25,571
-Toromon, digivolve
-to... Iko-mon!
+Koromon, digivolve
+to... Agumon!
 
 
 00:17:26,570 --> 00:17:27,590
-Yoko-mon!
+Yokomon!
 
 
 00:17:27,870 --> 00:17:29,490
@@ -1461,25 +1415,35 @@ Digivolve to...
 
 
 00:17:29,870 --> 00:17:30,870
-Trio-mon!
+Biyomon!
 
 
 00:17:31,830 --> 00:17:35,831
-Multimon, digivolve
-to... Tento-mon!
+Motimon, digivolve
+to... Tentomon!
 
 
 00:17:36,950 --> 00:17:40,911
 Tsunomon, digivolve
-to... Kabo-mon!
+to... Gabumon!
 
 
-00:17:41,730 --> 00:17:50,700
-Tocomon, digivolve
-to... Kabo-mon!
+00:17:41,730 --> 00:17:46,440
+Tokomon, digivolve
+to... Patamon!
 
 
-00:17:56,700 --> 00:18:03,240
+00:17:46,682 --> 00:17:51,440
+Bukamon, digivolve
+to... Gomamon!
+
+
+00:17:51,715 --> 00:17:56,281
+Tanemon, digivolve
+to... Palmon!
+
+
+00:18:02,363 --> 00:18:03,240
 Look at them!
 
 
@@ -1491,7 +1455,8 @@ What's happened to the little guys?
 They're... Bigger!
 
 
-00:18:12,560 --> 00:18:16,280
+00:18:14,338 --> 00:18:16,280
+Alright then.
 You asked for it!
 
 
@@ -1500,15 +1465,19 @@ Poison Ivy!
 
 
 00:18:22,430 --> 00:18:23,430
-Lubbles!
+Boom Bubbles!
 
 
 00:18:26,410 --> 00:18:27,910
 Super Shocker!
 
 
-00:18:38,150 --> 00:18:38,910
-Super Shocker!
+00:18:32,694 --> 00:18:34,394
+Stand back everyone.
+
+
+00:18:34,494 --> 00:18:35,594
+Pepper Breath!
 
 
 00:18:38,911 --> 00:18:39,911
@@ -1516,7 +1485,7 @@ Blue Blaster!
 
 
 00:18:40,830 --> 00:18:41,970
-Marl Twister!
+Spiral Twister!
 
 
 00:18:42,530 --> 00:18:43,530

@@ -177,38 +177,6 @@ Watch it.
 Stand back.
 
 
-00:01:27,900 --> 00:01:28,900
-Digiball.
-
-
-00:01:29,780 --> 00:01:30,460
-Oglebomb.
-
-
-00:01:30,800 --> 00:01:31,080
-Orp.
-
-
-00:01:31,160 --> 00:01:31,680
-Digiball.
-
-
-00:01:31,900 --> 00:01:32,900
-Whoop.
-
-
-00:01:34,220 --> 00:01:38,200
-Pilot jump jump.
-
-
-00:01:43,720 --> 00:01:44,400
-Orp.
-
-
-00:01:44,401 --> 00:01:45,401
-Digiball.
-
-
 00:02:00,190 --> 00:02:02,190
 There is no need for us to fight.
 
@@ -332,35 +300,50 @@ fighting around here.
 Ah, I'm a genius.
 
 
-00:03:43,720 --> 00:03:47,460
-They're all gonna have...
+00:03:43,720 --> 00:03:45,318
+They're all gonna hate
+each other...
 
 
-00:03:48,520 --> 00:03:49,520
+00:03:47,991 --> 00:03:49,520
 Terra Force!
 
 
-00:03:51,020 --> 00:03:52,020
-I
+00:03:52,967 --> 00:03:53,667
+Go, get him!
 
 
-00:03:55,950 --> 00:03:56,950
-have a good fight!
+00:03:54,847 --> 00:03:56,950
+Oh boy, I love a good fight!
 
 
 00:03:59,510 --> 00:04:00,510
 I've had...
 
 
+00:04:01,640 --> 00:04:05,853
+I'm gonna sit here and stare at the
+flowers until everybody starts getting along!
+
+
 00:04:06,150 --> 00:04:07,530
 Oh, like that's gonna help.
 
 
-00:04:09,430 --> 00:04:20,500
-Metal... Well, maybe a little.
+00:04:08,594 --> 00:04:10,594
+Metal Wolf Claw!
 
 
-00:04:22,060 --> 00:04:23,880
+00:04:12,174 --> 00:04:13,923
+Terra Force!
+
+
+00:04:17,662 --> 00:04:20,500
+I'm not afraid... 
+Well, maybe a little.
+
+
+00:04:21,335 --> 00:04:23,880
 Oh... My name's Kari.
 
 
@@ -434,7 +417,7 @@ I know this sounds incredible,
 but could we be home again?
 
 
-00:05:53,880 --> 00:05:55,620
+00:05:54,173 --> 00:05:55,620
 I've seen that Digimon before!
 
 
@@ -452,7 +435,7 @@ Digimon that appeared in
 
 
 00:06:01,115 --> 00:06:03,640
-Heightened View Terrace
+Highton View Terrace
 approximately four years ago.
 
 
@@ -647,7 +630,7 @@ Okay, this is getting weird.
 Oh, and floating in the sky is normal?
 
 
-00:08:10,000 --> 00:08:11,040
+00:08:10,200 --> 00:08:11,040
 Okay, it's official.
 
 
@@ -677,11 +660,11 @@ I don't believe it!
 
 
 00:08:29,280 --> 00:08:31,020
-This is from Myotismund's castle!
+This is from Myotismon's castle!
 
 
 00:08:32,680 --> 00:08:34,460
-Here's Myotismund's secret passage!
+Here's Myotismon's secret passage!
 
 
 00:08:42,220 --> 00:08:43,220
@@ -857,7 +840,7 @@ might become corrupted.
 That happened.
 
 
-00:10:12,440 --> 00:10:16,180
+00:10:12,726 --> 00:10:16,180
 When I tried to make Agumon digivolve by
 throwing myself in front of his enemy.
 
@@ -867,7 +850,7 @@ But then something weird happened.
 
 
 00:10:18,120 --> 00:10:19,880
-He digivolved into Skull Greymon.
+He digivolved into SkullGreymon.
 
 
 00:10:20,560 --> 00:10:22,920
@@ -906,7 +889,7 @@ Oh no!
 
 
 00:10:39,860 --> 00:10:40,860
-Pro-digis!
+Prodigious!
 
 
 00:10:40,900 --> 00:10:42,500
@@ -1008,7 +991,7 @@ images, we have to sit back and do nothing?
 
 
 00:11:37,690 --> 00:11:39,430
-His name is Gardramon.
+His name is Gardromon.
 
 
 00:11:39,690 --> 00:11:43,570
@@ -1030,7 +1013,7 @@ This is no space age vacuum cleaner!
 
 
 00:11:57,110 --> 00:11:58,110
-Meet Mecha-norimon!
+Meet Mekanorimon!
 
 
 00:11:58,610 --> 00:12:00,670
@@ -1046,7 +1029,7 @@ Ah!
 
 
 00:12:07,550 --> 00:12:08,550
-Piemon is here!
+Piedmon is here!
 
 
 00:12:09,630 --> 00:12:10,730
@@ -1083,7 +1066,7 @@ Ah!
 
 
 00:12:24,390 --> 00:12:24,850
-Piemon!
+Piedmon!
 
 
 00:12:25,250 --> 00:12:26,710
@@ -1091,11 +1074,11 @@ Hands off those crests!
 
 
 00:12:26,910 --> 00:12:27,910
-Jedi!
+Gennai!
 
 
 00:12:28,030 --> 00:12:29,030
-That man's Jedi?
+That man's Gennai?
 
 
 00:12:45,310 --> 00:12:46,430
@@ -1103,7 +1086,7 @@ Follow him!
 
 
 00:12:46,530 --> 00:12:47,890
-Don't let Jedi out of your sight!
+Don't let Gennai out of your sight!
 
 
 00:12:50,290 --> 00:12:52,870
@@ -1135,25 +1118,21 @@ We're together now!
 It's Fire Island!
 
 
-00:13:20,860 --> 00:13:26,700
-After Jedi rescued the digi-eggs and crests,
+00:13:21,093 --> 00:13:26,700
+After Gennai rescued the digi-eggs and crests,
 many years passed by... until finally...
 
 
-00:13:29,520 --> 00:13:30,900
+00:13:29,880 --> 00:13:30,900
 I was born!
 
 
-00:13:32,240 --> 00:13:33,240
-Oh!
-
-
-00:13:40,320 --> 00:13:40,640
-Matt!
+00:13:40,096 --> 00:13:40,640
+For Matt!
 
 
 00:13:40,900 --> 00:13:41,560
-For Sarah!
+For Sora!
 
 
 00:13:41,840 --> 00:13:42,520
@@ -1165,11 +1144,11 @@ For Mimi!
 
 
 00:13:43,720 --> 00:13:44,720
-For Dickie!
+For TK!
 
 
 00:13:44,800 --> 00:13:45,560
-For Ezra!
+For Izzy!
 
 
 00:13:45,700 --> 00:13:47,380
@@ -1384,7 +1363,7 @@ this because I have to.
 
 
 00:15:34,150 --> 00:15:35,950
-Soon Omon will be with me, so I'll be
+Tsunomon will be with me, so I'll be
 alright.
 
 
@@ -1626,7 +1605,7 @@ At least, that's the way I hope it works
 out.
 
 
-00:17:22,011 --> 00:17:24,210
+00:17:22,930 --> 00:17:24,210
 Is Gatomon right?
 
 

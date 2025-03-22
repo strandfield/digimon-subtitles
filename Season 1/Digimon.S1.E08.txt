@@ -1,11 +1,11 @@
 
-00:00:00,000 --> 00:00:03,800
-Matt and Ty were arguing about whether or
+00:00:00,413 --> 00:00:03,800
+Matt and Tai were arguing about whether or
 not to climb Infinity Mountain.
 
 
 00:00:04,120 --> 00:00:06,600
-Ty figured from up there, we could see a
+Tai figured from up there, we could see a
 way off the island.
 
 
@@ -19,12 +19,12 @@ night, I took it upon myself to climb it.
 
 
 00:00:12,680 --> 00:00:16,820
-On the way up, me and Gomomon saw a black
-gear embed itself in Unamon.
+On the way up, me and Gomamon saw a black
+gear embed itself in Unimon.
 
 
 00:00:17,020 --> 00:00:18,980
-It was no surprise when Unamon attacked.
+It was no surprise when Unimon attacked.
 
 
 00:00:19,480 --> 00:00:20,760
@@ -33,7 +33,7 @@ I was in quite a bit of trouble.
 
 00:00:21,000 --> 00:00:23,560
 That's when Gomomon digivolved into
-Ikakumon.
+Ikkakumon.
 
 
 00:00:23,720 --> 00:00:27,640
@@ -46,67 +46,7 @@ I don't think I'll climb any mountains for
 a while.
 
 
-00:00:42,780 --> 00:00:43,780
-Digimon!
-
-
-00:00:44,020 --> 00:00:45,020
-Digital Monsters!
-
-
-00:00:45,080 --> 00:00:46,440
-Digimon are the champions!
-
-
-00:00:51,320 --> 00:00:55,820
-Change into Digital Champions 2!
-
-
-00:00:56,520 --> 00:00:59,020
-Save the Digital World!
-
-
-00:00:59,520 --> 00:01:00,520
-Digimon!
-
-
-00:01:00,620 --> 00:01:01,660
-Digital Monsters!
-
-
-00:01:01,780 --> 00:01:03,100
-Digimon are the champions!
-
-
-00:01:10,660 --> 00:01:11,660
-Digimon!
-
-
-00:01:11,720 --> 00:01:20,450
-Digital Monsters!
-
-
-00:01:20,550 --> 00:01:21,850
-Digimon are the champions!
-
-
-00:01:22,890 --> 00:01:23,410
-Digimon!
-
-
-00:01:23,610 --> 00:01:24,630
-Digital Monsters!
-
-
-00:01:24,730 --> 00:01:26,070
-Digimon are the champions!
-
-
-00:01:26,850 --> 00:01:27,850
-Digimon!
-
-
-00:01:30,370 --> 00:01:32,590
+00:01:30,563 --> 00:01:32,590
 This place could really use a good bus
 system.
 
@@ -240,7 +180,7 @@ Be silent!
 
 
 00:02:56,170 --> 00:03:00,850
-For I am Devonod, ultimate ruler of the
+For I am Devimon, ultimate ruler of the
 demon underworld.
 
 
@@ -297,7 +237,7 @@ Fist of the Beast King!
 
 
 00:03:27,450 --> 00:03:28,450
-Freeze, Neoman.
+Freeze, Leomon.
 
 
 00:03:28,690 --> 00:03:30,330
@@ -444,7 +384,7 @@ My map!
 
 
 00:04:51,090 --> 00:04:52,090
-Ty, come back!
+Tai, come back!
 
 
 00:04:52,210 --> 00:04:53,210
@@ -456,7 +396,7 @@ Uh-oh.
 
 
 00:04:54,450 --> 00:04:55,450
-Peppa breath!
+Pepper Breath!
 
 
 00:04:58,710 --> 00:04:59,850
@@ -527,7 +467,7 @@ teamwork is efficient even for bad guys.
 
 
 00:05:29,450 --> 00:05:31,830
-But Leomon has always been Argumon's worst
+But Leomon has always been Ogremon's worst
 enemy.
 
 
@@ -551,44 +491,56 @@ I don't know!
 I don't know!
 
 
-00:05:50,290 --> 00:05:52,550
-Ackumon, Digibob 2.
+00:05:50,977 --> 00:05:52,550
+Agumon, digivolve to...
 
 
-00:05:57,490 --> 00:06:00,270
-Ackumon, Digibob 2.
+00:05:54,671 --> 00:05:56,671
+Greymon!
 
 
-00:06:01,970 --> 00:06:02,330
-Raymon!
+00:05:58,030 --> 00:06:00,270
+Gabumon, digivolve to...
 
 
-00:06:02,331 --> 00:06:06,470
-Calmon Digibob 2!
+00:06:01,277 --> 00:06:03,044
+Garurumon!
 
 
-00:06:08,330 --> 00:06:09,330
-Togomon!
+00:06:04,357 --> 00:06:06,470
+Palmon, digivolve to...
 
 
-00:06:16,570 --> 00:06:19,830
-Tiamon Digibob 2!
+00:06:08,164 --> 00:06:09,924
+Togemon!
+
+
+00:06:17,096 --> 00:06:19,830
+Biyomon, digivolve to...
+
+
+00:06:20,877 --> 00:06:22,877
+Birdramon!
+
+
+00:06:23,677 --> 00:06:25,677
+Tentomon, digivolve to...
 
 
 00:06:27,580 --> 00:06:29,260
-Tabu Terrimon!
+Kabuterimon!
 
 
 00:06:30,580 --> 00:06:32,440
-Gomomon Digibob 2!
+Gomamon, digivolve to...
 
 
 00:06:35,240 --> 00:06:36,640
-Ikakumon!
+Ikkakumon!
 
 
 00:06:44,880 --> 00:06:46,420
-They've all Digibobbed!
+They've all digivolved!
 
 
 00:06:46,540 --> 00:06:47,680
@@ -596,7 +548,7 @@ Come with me, TK.
 
 
 00:06:48,020 --> 00:06:49,420
-Let him have it, Graymon!
+Let him have it, Greymon!
 
 
 00:06:50,760 --> 00:06:51,760
@@ -608,7 +560,7 @@ Harpoon torpedo!
 
 
 00:06:58,440 --> 00:06:59,640
-Kato Spray!
+Needle Spray!
 
 
 00:07:03,650 --> 00:07:05,650
@@ -621,7 +573,7 @@ quite dangerous.
 
 
 00:07:08,910 --> 00:07:10,450
-But why hasn't the Patamon Digibobbed?
+But why hasn't the Patamon digivolved?
 
 
 00:07:11,050 --> 00:07:12,050
@@ -637,7 +589,7 @@ Howling Blaster!
 
 
 00:07:22,960 --> 00:07:23,960
-VPR Wing!
+Meteor Wing!
 
 
 00:07:25,440 --> 00:07:26,520
@@ -645,7 +597,7 @@ Electro Shocker!
 
 
 00:07:28,520 --> 00:07:29,600
-Nova Brast!
+Nova Blast!
 
 
 00:07:34,630 --> 00:07:35,630
@@ -673,7 +625,7 @@ Agumon, speak to me!
 
 
 00:07:42,490 --> 00:07:44,390
-We aren't wounded, TIE.
+We aren't wounded, Tai.
 
 
 00:07:44,570 --> 00:07:46,490
@@ -685,7 +637,7 @@ Two Digivolutions in one day, no wonder!
 
 
 00:07:49,210 --> 00:07:50,070
-Poor B.O.
+Poor Biyo.
 
 
 00:07:50,071 --> 00:07:52,070
@@ -1120,7 +1072,7 @@ And plenty of it.
 
 
 00:11:01,710 --> 00:11:02,830
-Show us where, Kabuman!
+Show us where, Gabumon!
 
 
 00:11:03,170 --> 00:11:04,070
@@ -1555,7 +1507,7 @@ I can go to the bathroom by myself.
 
 00:14:39,880 --> 00:14:41,620
 I don't mind keeping you company,
-Ty.
+Tai.
 
 
 00:14:41,621 --> 00:14:43,320
@@ -1577,7 +1529,7 @@ afraid to go to the bathroom by yourself.
 
 
 00:14:53,480 --> 00:14:55,140
-Oh, Ty, don't be upset with me.
+Oh, Tai, don't be upset with me.
 
 
 00:14:55,360 --> 00:14:56,360
@@ -1600,7 +1552,7 @@ Then what are you doing in there?
 
 00:15:02,540 --> 00:15:04,580
 I don't even want to talk about it,
-Ty.
+Tai.
 
 
 00:15:07,180 --> 00:15:10,460
@@ -1654,7 +1606,7 @@ Whoa!
 
 
 00:15:34,680 --> 00:15:35,340
-Get ready, Ty.
+Get ready, Tai.
 
 
 00:15:35,580 --> 00:15:37,020
@@ -1666,7 +1618,7 @@ Agumon, who is that?
 
 
 00:15:39,440 --> 00:15:40,600
-That's Devamon.
+That's Devimon.
 
 
 00:15:40,720 --> 00:15:41,720
@@ -1718,7 +1670,7 @@ I hope this is a bad dream.
 
 
 00:16:14,260 --> 00:16:14,680
-Ty!
+Tai!
 
 
 00:16:15,020 --> 00:16:15,260
@@ -1891,7 +1843,7 @@ The light drove it out.
 
 
 00:18:07,710 --> 00:18:09,850
-Devamon no longer has control over Leomon.
+Devimon no longer has control over Leomon.
 
 
 00:18:10,330 --> 00:18:11,390
@@ -1903,7 +1855,7 @@ How do you feel, Leomon?
 
 
 00:18:13,130 --> 00:18:14,930
-I am free of Devamon's powers.
+I am free of Devimon's powers.
 
 
 00:18:16,950 --> 00:18:19,030
@@ -2014,7 +1966,7 @@ You can escape too!
 
 
 00:19:21,050 --> 00:19:23,330
-I must prevent Devamon from pursuing you!
+I must prevent Devimon from pursuing you!
 
 
 00:19:23,950 --> 00:19:24,950

@@ -1,18 +1,22 @@
 
 00:00:08,370 --> 00:00:10,650
-Agobon, Warf Digivolve 2!
+Agumon, warp-digivolve to...
 
 
 00:00:19,080 --> 00:00:20,300
-Warg Raymon!
+WarGreymon!
 
 
 00:00:32,680 --> 00:00:35,200
-Gabobon, Warf Digivolve 2!
+Gabumon, warp-digivolve to...
+
+
+00:00:57,760 --> 00:00:59,760
+MetalGarurumon!
 
 
 00:01:01,110 --> 00:01:02,370
-It's Warg Raymon!
+It's WarGreymon!
 
 
 00:01:02,570 --> 00:01:05,292
@@ -26,7 +30,7 @@ focusing it in the palm of his hand.
 
 
 00:01:08,770 --> 00:01:11,730
-Metal Garurumon has his Metal Wolfclaw
+MetalGarurumon has his Metal Wolf Claw
 attack.
 
 
@@ -40,13 +44,13 @@ Mega Digimon!
 
 
 00:01:17,770 --> 00:01:20,010
-They Digivolve into their Mega Digimon
+They digivolved into their Mega Digimon
 forms.
 
 
 00:01:20,330 --> 00:01:23,370
 That's great, because we'll need them to
-beat Venom Iotismon.
+beat VenomMyotismon.
 
 
 00:01:23,550 --> 00:01:25,110
@@ -61,12 +65,12 @@ Good luck!
 I'll wait here.
 
 
-00:01:30,190 --> 00:01:31,190
-Mon,
+00:01:38,138 --> 00:01:39,756
+Way to go WarGreymon!
 
 
 00:01:39,780 --> 00:01:40,820
-you creamed him!
+You creamed him!
 
 
 00:01:41,020 --> 00:01:42,020
@@ -82,15 +86,15 @@ There we go!
 
 
 00:01:44,980 --> 00:01:46,580
-Get after him, Warg Raymon!
+Get after him, WarGreymon!
 
 
 00:01:46,820 --> 00:01:47,960
 Put his lights out!
 
 
-00:01:51,080 --> 00:01:52,280
-First Wolfclaw!
+00:01:51,186 --> 00:01:52,280
+Burst Wolf Claw!
 
 
 00:01:59,880 --> 00:02:00,560
@@ -101,13 +105,13 @@ Close it!
 Solid!
 
 
-00:02:06,520 --> 00:02:07,520
-Your
+00:02:11,163 --> 00:02:11,891
+It didn't work...
 
 
-00:02:12,140 --> 00:02:14,520
-miserable attempts to destroy me have
-failed!
+00:02:11,915 --> 00:02:14,520
+Your miserable attempts to destroy me 
+have failed!
 
 
 00:02:14,521 --> 00:02:15,980
@@ -115,10 +119,6 @@ Now you will pay!
 
 
 00:02:17,220 --> 00:02:22,780
-Ha-ha-ha-ha!
-
-
-00:02:22,800 --> 00:02:25,720
 Ha-ha-ha-ha!
 
 
@@ -130,7 +130,7 @@ Oh, whoa!
 Aaaaah!
 
 
-00:02:33,850 --> 00:02:36,980
+00:02:36,343 --> 00:02:36,980
 Everybody out!
 
 
@@ -139,10 +139,6 @@ Get clear of the van!
 
 
 00:02:41,930 --> 00:02:46,560
-Ha-ha-ha-ha!
-
-
-00:02:47,020 --> 00:02:47,300
 Ha-ha-ha-ha!
 
 
@@ -277,20 +273,28 @@ Jim!
 Good luck, you guys.
 
 
-00:03:34,820 --> 00:03:37,380
-Ha-ha-ha-ha-ha-ha-ha!
-
-
-00:03:37,400 --> 00:03:41,000
-Ha-ha-ha-ha-ha-ha-ha!
-
-
 00:03:41,001 --> 00:03:42,001
-Kory!
+Kari!
 
 
-00:03:45,760 --> 00:04:03,520
-Get him, Archibon!
+00:03:47,180 --> 00:03:48,673
+Where are you Tai?
+
+
+00:03:51,634 --> 00:03:52,407
+Tai!
+
+
+00:04:02,323 --> 00:04:03,403
+Get him, Angemon!
+
+
+00:04:07,670 --> 00:04:08,576
+Matt, Tai...
+
+
+00:04:08,717 --> 00:04:09,756
+I'm coming.
 
 
 00:04:09,850 --> 00:04:10,680
@@ -298,32 +302,15 @@ Look, Izzy!
 
 
 00:04:10,820 --> 00:04:12,380
-All the others have Digivolve too.
+All the others have digivolved too.
 
 
 00:04:12,660 --> 00:04:15,260
-There's Ikakumon and Togamon and Bergamon!
+There's Ikkakumon and Togemon and Birdramon!
 
 
 00:04:15,480 --> 00:04:16,600
 I'm going in!
-
-
-00:04:16,980 --> 00:04:17,980
-Digimon!
-
-
-00:04:24,650 --> 00:04:27,170
-Digimon Monster and Digimon are the
-champion!
-
-
-00:04:42,040 --> 00:04:43,400
-Kabu-Terry!
-
-
-00:04:45,990 --> 00:04:47,370
-Digital monsters, Digimon!
 
 
 00:04:47,610 --> 00:04:49,730
@@ -331,47 +318,47 @@ Everyone, attack at the same time!
 
 
 00:04:49,950 --> 00:04:52,110
-Okay, how about a little needle spray?
+Okay, how about a little Needle Spray?
 
 
-00:04:52,910 --> 00:04:54,150
+00:04:53,270 --> 00:04:54,323
 Harpoon torpedo!
 
 
 00:04:54,870 --> 00:04:55,930
-Meteor wing!
+Meteor Wing!
 
 
 00:04:56,650 --> 00:04:57,930
-Electro shocker!
+Electro Shocker!
 
 
 00:04:58,850 --> 00:04:59,850
-End of face!
+Hand of Fate!
 
 
 00:05:01,330 --> 00:05:02,670
-Celestial arrow!
+Celestial Arrow!
+
+
+00:05:03,930 --> 00:05:05,596
+Metal Wolf Claw!
 
 
 00:05:08,440 --> 00:05:10,450
 And now to wind things up!
 
 
-00:05:13,090 --> 00:05:14,670
+00:05:13,546 --> 00:05:14,900
 Mega Claw!
 
 
-00:05:29,230 --> 00:05:30,230
+00:05:29,756 --> 00:05:30,383
 Aw!
 
 
-00:05:37,130 --> 00:05:38,130
-You
-
-
-00:05:41,350 --> 00:05:42,650
-think you can defeat me?
+00:05:40,970 --> 00:05:42,650
+You think you can defeat me?
 
 
 00:05:44,730 --> 00:05:47,470
@@ -447,8 +434,12 @@ Oh!
 Woo-hoo!
 
 
-00:06:36,601 --> 00:06:54,580
-T-destined, curse you and your lousy
+00:06:51,835 --> 00:06:53,051
+Curse you digi-destined!
+
+
+00:06:53,075 --> 00:06:54,475
+Curse you and your lousy
 crests!
 
 
@@ -489,8 +480,12 @@ Nice pass.
 Shoot!
 
 
-00:07:12,780 --> 00:07:13,820
+00:07:12,780 --> 00:07:13,890
 Terra Force!
+
+
+00:07:16,368 --> 00:07:18,368
+Metal Wolf Claw!
 
 
 00:07:34,580 --> 00:07:45,410
@@ -510,7 +505,7 @@ They won!
 
 
 00:07:49,550 --> 00:07:50,270
-We did it, Ty!
+We did it, Tai!
 
 
 00:07:50,470 --> 00:07:51,230
@@ -525,8 +520,8 @@ Dang!
 Wasn't that cool?
 
 
-00:07:53,250 --> 00:07:54,470
-Great job, Sunomon!
+00:07:53,510 --> 00:07:54,470
+Great job, Tsunomon!
 
 
 00:07:56,110 --> 00:07:56,550
@@ -550,7 +545,7 @@ What do I have to do, cough up a furball?
 
 
 00:08:01,750 --> 00:08:03,930
-That's Salomon, the rookie form of
+That's Salamon, the rookie form of
 Gatomon.
 
 
@@ -560,7 +555,7 @@ Isn't she cute?
 
 00:08:04,990 --> 00:08:07,450
 Much more cuddly than her ultimate form of
-Anjuomon.
+Angewomon.
 
 
 00:08:07,650 --> 00:08:09,623
@@ -629,7 +624,7 @@ to happen now, when we
 
 00:08:43,478 --> 00:08:45,870
 were just feeling good
-about beating my Otismon?
+about beating Myotismon?
 
 
 00:08:46,050 --> 00:08:48,350
@@ -844,10 +839,6 @@ Mayday!
 Mayday!
 
 
-00:10:30,691 --> 00:10:30,770
-Mayday!
-
-
 00:10:31,550 --> 00:10:33,512
 I have to admit that
 I'm a little jealous that
@@ -905,7 +896,7 @@ Awesome!
 
 
 00:11:00,090 --> 00:11:01,150
-Zora, they're safe!
+Sora, they're safe!
 
 
 00:11:02,050 --> 00:11:02,510
@@ -985,7 +976,7 @@ It looks like Infinity Mountain!
 
 
 00:11:42,650 --> 00:11:43,130
-Hey, Ty!
+Hey, Tai!
 
 
 00:11:43,390 --> 00:11:46,430
@@ -1150,7 +1141,7 @@ If I can just get there in time!
 
 
 00:12:51,680 --> 00:12:52,800
-It's Kalagamon!
+It's Kuwagamon!
 
 
 00:12:53,140 --> 00:12:54,140
@@ -1166,7 +1157,7 @@ It went right through!
 
 
 00:13:35,560 --> 00:13:36,560
-Kabutari Mon!
+Kabuterimon!
 
 
 00:13:36,600 --> 00:13:37,100
@@ -1182,7 +1173,7 @@ Whoa!
 
 
 00:13:42,990 --> 00:13:44,230
-Nice going, Bergeron!
+Nice going, Birdramon!
 
 
 00:13:44,470 --> 00:13:45,910
@@ -1190,7 +1181,7 @@ You brought the plane down safely!
 
 
 00:13:50,120 --> 00:13:51,980
-Guys, how'd Kuwagumon get here?
+Guys, how'd Kuwagamon get here?
 
 
 00:13:52,240 --> 00:13:54,180
@@ -1238,7 +1229,7 @@ for what you are seeing here!
 
 
 00:14:15,740 --> 00:14:16,740
-Kuwagumon again!
+Kuwagamon again!
 
 
 00:14:16,800 --> 00:14:18,740
@@ -1264,7 +1255,7 @@ What's going on here?
 
 
 00:14:25,400 --> 00:14:27,660
-Solomon, is that your world up there?
+Salamon, is that your world up there?
 
 
 00:14:27,840 --> 00:14:32,020
@@ -1381,7 +1372,7 @@ You're all in this together!
 
 
 00:15:33,540 --> 00:15:34,840
-I think it's working, Ty!
+I think it's working, Tai!
 
 
 00:15:35,060 --> 00:15:36,540
@@ -1586,7 +1577,7 @@ Bye, Mama!
 
 
 00:17:07,380 --> 00:17:08,380
-Oh, Ty!
+Oh, Tai!
 
 
 00:17:09,040 --> 00:17:10,040
@@ -1640,10 +1631,6 @@ Bye-bye!
 Bye-bye!
 
 
-00:17:32,720 --> 00:17:32,860
-Bye-bye!
-
-
 00:17:33,380 --> 00:17:34,120
 Bye-bye!
 
@@ -1664,27 +1651,4 @@ digi-destined in the digital world?
 00:17:43,280 --> 00:17:46,580
 Find out on the next Digimon Digital
 Monsters.
-
-
-00:17:46,581 --> 00:17:47,696
-Books of desktop trying to run forward to
-all parts of the crispy tankers.
-
-
-00:17:47,720 --> 00:17:48,560
-We'll be waiting for you for visitors,
-etc.
-
-
-00:17:48,561 --> 00:17:48,840
-More such as free-熱唱ers.
-
-
-00:17:48,841 --> 00:17:48,960
-We'll be able to achieve a better if you
-can use this.
-
-
-00:17:48,961 --> 00:17:50,161
-SelenaZer 22 Jobets Thank you.
 

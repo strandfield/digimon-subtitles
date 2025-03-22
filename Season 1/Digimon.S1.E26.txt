@@ -1,12 +1,12 @@
 
-00:00:00,000 --> 00:00:03,129
+00:00:00,486 --> 00:00:03,129
 We finally found Mimi living
 like a princess in a castle
 
 
 00:00:03,130 --> 00:00:05,580
 with a bunch of froggy-looking
-guys called Gekkomon.
+guys called Gekomon.
 
 
 00:00:05,980 --> 00:00:08,154
@@ -52,24 +52,6 @@ Thanks to MetalGreymon, we get out in one
 piece.
 
 
-00:01:19,450 --> 00:01:22,030
-Digital Monsters, Digimon are the
-champions!
-
-
-00:01:22,930 --> 00:01:23,470
-Digimon!
-
-
-00:01:23,790 --> 00:01:26,170
-Digital Monsters, Digimon are the
-champions!
-
-
-00:01:27,070 --> 00:01:28,070
-Digimon!
-
-
 00:01:31,260 --> 00:01:34,300
 Because of Demi-Devimon's tricks,
 we all became separated.
@@ -81,7 +63,7 @@ we were able to find each other.
 
 
 00:01:37,460 --> 00:01:38,460
-Except for Zora.
+Except for Sora.
 
 
 00:01:41,460 --> 00:01:42,960
@@ -113,12 +95,12 @@ Guys, over here!
 Hey, it's Matt!
 
 
-00:01:59,760 --> 00:02:02,000
+00:01:59,760 --> 00:02:01,713
 It's been so long since I've seen you.
 
 
-00:02:02,180 --> 00:02:03,340
-Mike, you've shrunk.
+00:02:02,133 --> 00:02:03,340
+My youth, you've shrunk.
 
 
 00:02:03,600 --> 00:02:04,760
@@ -126,7 +108,7 @@ Don't rub it in!
 
 
 00:02:04,940 --> 00:02:05,680
-Where's Zora?
+Where's Sora?
 
 
 00:02:05,920 --> 00:02:06,960
@@ -146,7 +128,7 @@ It's not like her to disappear like that.
 
 
 00:02:13,000 --> 00:02:15,140
-Well, actually, I think I saw Zora.
+Well, actually, I think I saw Sora.
 
 
 00:02:15,500 --> 00:02:15,840
@@ -158,7 +140,7 @@ So where did you see her?
 
 
 00:02:17,400 --> 00:02:20,060
-At the Gigimon's castle, but I might have
+At the Gekomon's castle, but I might have
 been...dreaming.
 
 
@@ -185,7 +167,7 @@ about to eat one of those mushrooms of
 
 00:02:30,241 --> 00:02:35,961
 forgetfulness, when I was Agumon, I heard
-a voice that sounded a lot like Zora's.
+a voice that sounded a lot like Sora's.
 
 
 00:02:36,060 --> 00:02:37,120
@@ -193,7 +175,7 @@ That's real weird.
 
 
 00:02:37,700 --> 00:02:40,155
-But then, if Zora is
+But then, if Sora is
 actually close to where
 
 
@@ -203,7 +185,7 @@ she come out and tell us?
 
 
 00:02:42,960 --> 00:02:45,140
-Well, maybe Zora just doesn't want to.
+Well, maybe Sora just doesn't want to.
 
 
 00:02:45,760 --> 00:02:47,780
@@ -233,7 +215,7 @@ Oh, boy.
 
 
 00:03:23,280 --> 00:03:23,960
-My Otismont.
+Myotismon.
 
 
 00:03:24,160 --> 00:03:26,040
@@ -258,7 +240,7 @@ Give my mistakes, Master.
 
 
 00:03:32,420 --> 00:03:33,100
-My Otismont.
+Myotismon.
 
 
 00:03:33,240 --> 00:03:34,240
@@ -312,7 +294,7 @@ other children very soon.
 
 00:04:03,660 --> 00:04:06,820
 And when she does, Master
-My Otismont, when they
+Myotismon, when they
 
 
 00:04:06,821 --> 00:04:09,300
@@ -338,11 +320,11 @@ I hate bats.
 
 
 00:04:22,640 --> 00:04:23,640
-Zora!
+Sora!
 
 
 00:04:23,880 --> 00:04:24,400
-Zora!
+Sora!
 
 
 00:04:24,680 --> 00:04:25,740
@@ -393,23 +375,23 @@ What's that fuzzy?
 
 
 00:04:45,420 --> 00:04:46,920
-I wonder if it's Zora.
+I wonder if it's Sora.
 
 
 00:04:47,180 --> 00:04:48,180
 What's that sound?
 
 
-00:04:52,340 --> 00:04:53,340
+00:04:52,126 --> 00:04:53,340
 Flymon's here!
 
 
 00:04:54,220 --> 00:04:55,220
-Brown stickers!
+Brown Stingers!
 
 
 00:05:00,500 --> 00:05:04,240
-Maybe this Digimon analyzer the Jedi gave
+Maybe this Digimon analyzer the Gennai gave
 me could help us out.
 
 
@@ -436,7 +418,7 @@ And here he comes now!
 
 
 00:05:21,500 --> 00:05:22,700
-Careful, Tie!
+Careful, Tai!
 
 
 00:05:23,460 --> 00:05:24,460
@@ -447,36 +429,36 @@ Whoa!
 Look out, man!
 
 
-00:05:28,540 --> 00:05:32,080
-Horomon Digivolve to...
+00:05:28,933 --> 00:05:32,080
+Koromon digivolve to...
 
 
 00:05:32,740 --> 00:05:33,560
 Agumon!
 
 
-00:05:33,561 --> 00:05:36,660
-Tune-o-man, digi-ball to...
+00:05:34,066 --> 00:05:36,273
+Tsunomon, digivolve to...
 
 
-00:05:37,460 --> 00:05:38,460
-Kabu-man!
+00:05:37,340 --> 00:05:38,460
+Gabumon!
 
 
 00:05:38,760 --> 00:05:39,440
-Agu-man!
+Agumon!
 
 
 00:05:39,640 --> 00:05:40,640
-Kabu-man!
+Gabumon!
 
 
 00:05:41,300 --> 00:05:42,300
-Pepperbreath!
+Pepper Breath!
 
 
-00:05:42,780 --> 00:05:43,940
-New blaster!
+00:05:42,720 --> 00:05:44,273
+Blue Blaster!
 
 
 00:05:45,360 --> 00:05:48,080
@@ -489,19 +471,19 @@ Munching fish in!
 
 
 00:05:49,800 --> 00:05:50,940
-Blazing ivy!
+Poison Ivy!
 
 
 00:05:51,300 --> 00:05:52,580
-Bounce fingers!
+Brown Stingers!
 
 
-00:05:59,640 --> 00:06:01,260
-It's Perdramon!
+00:06:00,140 --> 00:06:01,260
+It's Birdramon!
 
 
 00:06:07,830 --> 00:06:10,110
-If Perdramon's here, then so is Sora!
+If Birdramon's here, then so is Sora!
 
 
 00:06:10,510 --> 00:06:11,510
@@ -513,7 +495,7 @@ Sora!
 
 
 00:06:13,110 --> 00:06:14,250
-Wait up, Ty!
+Wait up, Tai!
 
 
 00:06:14,310 --> 00:06:14,810
@@ -566,8 +548,8 @@ Okay.
 
 
 00:07:04,000 --> 00:07:08,000
-It happened the night that Biomon and I
-left camp to try and find Ty.
+It happened the night that Biyomon and I
+left camp to try and find Tai.
 
 
 00:07:09,760 --> 00:07:10,280
@@ -619,7 +601,7 @@ its own special meaning.
 
 
 00:07:30,701 --> 00:07:33,880
-For example, Ty, yours is the crest of
+For example, Tai, yours is the crest of
 courage.
 
 
@@ -717,7 +699,7 @@ You're wrong!
 
 
 00:08:18,800 --> 00:08:20,080
-Don't even say that, Ty!
+Don't even say that, Tai!
 
 
 00:08:20,240 --> 00:08:21,360
@@ -751,7 +733,7 @@ So back off!
 
 
 00:08:34,140 --> 00:08:35,380
-I'm sorry, Ty.
+I'm sorry, Tai.
 
 
 00:08:35,740 --> 00:08:37,260
@@ -784,7 +766,7 @@ emotional when it comes to love?
 
 
 00:08:55,320 --> 00:08:56,380
-Leave her alone, Ty.
+Leave her alone, Tai.
 
 
 00:08:56,660 --> 00:08:58,240
@@ -1041,7 +1023,7 @@ is true, you shouldn't
 
 00:11:14,105 --> 00:11:16,680
 believe a word from
-that loser Demi-Devi-mon.
+that loser Demi-Devimon.
 
 
 00:11:18,760 --> 00:11:20,700
@@ -1071,7 +1053,7 @@ starts blubbering.
 
 
 00:11:31,240 --> 00:11:32,440
-Just let her go, Ty.
+Just let her go, Tai.
 
 
 00:11:32,680 --> 00:11:33,680
@@ -1108,7 +1090,7 @@ Right, TK.
 
 
 00:11:49,660 --> 00:11:52,126
-We thought Demi-Devi-mon
+We thought Demi-Devimon
 was up to no good, so we kept
 
 
@@ -1205,7 +1187,7 @@ Finally, they're all together.
 
 
 00:12:55,150 --> 00:12:56,630
-I must tell my Otis-mon.
+I must tell Myotismon.
 
 
 00:13:23,050 --> 00:13:24,050
@@ -1213,12 +1195,12 @@ Let's go.
 
 
 00:13:27,570 --> 00:13:30,830
-My Otis-mon will be so proud of my work,
+Myotismon will be so proud of my work,
 maybe I'll get a promotion.
 
 
-00:13:35,390 --> 00:13:36,070
-Demidart.
+00:13:34,590 --> 00:13:35,403
+Demi Dart!
 
 
 00:13:36,071 --> 00:13:37,410
@@ -1226,7 +1208,7 @@ Sora, watch out!
 
 
 00:13:41,250 --> 00:13:42,490
-No, Biomon!
+No, Biyomon!
 
 
 00:13:42,890 --> 00:13:43,890
@@ -1234,7 +1216,7 @@ Please wake up!
 
 
 00:13:44,290 --> 00:13:44,790
-Biomon!
+Biyomon!
 
 
 00:13:45,150 --> 00:13:47,070
@@ -1249,8 +1231,8 @@ Oh, no.
 Sora, what's wrong?
 
 
-00:13:49,990 --> 00:13:51,230
-Demi-Demimon!
+00:13:50,296 --> 00:13:51,230
+Demi-Devimon!
 
 
 00:13:51,231 --> 00:13:52,231
@@ -1274,7 +1256,7 @@ That's it!
 
 
 00:14:26,000 --> 00:14:28,240
-That's the thing Demi-Devi-mon was talking
+That's the thing Demi-Devimon was talking
 to!
 
 
@@ -1282,7 +1264,7 @@ to!
 He's not a thing, he's Lord Myotismon!
 
 
-00:14:32,080 --> 00:14:32,660
+00:14:31,766 --> 00:14:32,660
 Myotismon?
 
 
@@ -1290,13 +1272,13 @@ Myotismon?
 It's Lord Myotismon!
 
 
-00:14:38,060 --> 00:14:41,980
+00:14:38,280 --> 00:14:41,980
 These Digi-destined are making me feel a
 little batty.
 
 
 00:14:42,440 --> 00:14:43,460
-Grizzly-wee!
+Grisly Wing!
 
 
 00:14:48,260 --> 00:14:50,080
@@ -1304,47 +1286,43 @@ Come on, guys, let's go!
 
 
 00:14:51,120 --> 00:14:52,120
-Pepperbred!
+Pepper Breath!
 
 
 00:14:52,640 --> 00:14:54,320
 Blue Blaster!
 
 
-00:14:55,280 --> 00:14:59,760
-Come on, Digi-Ball!
+00:14:57,806 --> 00:15:00,500
+Motimon, digivolve to...
 
 
-00:15:01,060 --> 00:15:02,060
-Pentamon!
+00:15:00,913 --> 00:15:02,060
+Tentomon!
 
 
-00:15:02,380 --> 00:15:03,660
+00:15:02,726 --> 00:15:03,660
 Super Shocker!
 
 
 00:15:04,280 --> 00:15:05,280
-Ball bubble!
+Boom bubble!
 
 
-00:15:06,960 --> 00:15:07,960
-There's
-
-
-00:15:11,320 --> 00:15:11,560
-no!
+00:15:07,500 --> 00:15:09,006
+There's no coming out for us.
 
 
 00:15:11,800 --> 00:15:12,800
-Me-me!
+Mimi!
 
 
-00:15:13,240 --> 00:15:15,360
-Calmon, Digi-Ball too!
+00:15:13,500 --> 00:15:15,360
+Palmon, digivolve to...
 
 
 00:15:16,760 --> 00:15:17,760
-Togomon!
+Togemon!
 
 
 00:15:18,880 --> 00:15:21,020
@@ -1356,11 +1334,11 @@ Needle Stray!
 
 
 00:15:27,910 --> 00:15:30,050
-Domomon, Digi-Ball too!
+Gomamon, digivolve to...
 
 
 00:15:33,350 --> 00:15:34,350
-Ikakuma!
+Ikkakumon!
 
 
 00:15:35,130 --> 00:15:36,490
@@ -1371,7 +1349,7 @@ Harpoon Torpedo!
 Wow, way to go!
 
 
-00:15:47,860 --> 00:15:50,140
+00:15:48,473 --> 00:15:50,140
 You can't defeat me that easily!
 
 
@@ -1379,15 +1357,11 @@ You can't defeat me that easily!
 Crimson Lightning!
 
 
-00:15:58,100 --> 00:15:59,100
-Kai,
+00:16:04,400 --> 00:16:06,720
+Tai, he's just too strong for us!
 
 
-00:16:05,040 --> 00:16:06,720
-he's just too strong for us!
-
-
-00:16:07,400 --> 00:16:08,400
+00:16:07,660 --> 00:16:08,400
 Now what?
 
 
@@ -1420,7 +1394,7 @@ I have to go!
 
 
 00:16:24,180 --> 00:16:25,180
-No, Rioman!
+No, Biyomon!
 
 
 00:16:25,380 --> 00:16:25,900
@@ -1447,11 +1421,11 @@ Sora, why can't you understand?
 Huh?
 
 
-00:16:33,500 --> 00:16:35,180
+00:16:33,770 --> 00:16:35,180
 Why can't you understand?
 
 
-00:16:36,480 --> 00:16:39,504
+00:16:36,823 --> 00:16:39,504
 I always thought my mom
 was thinking about her flower
 
@@ -1461,12 +1435,12 @@ shop, but she was really
 worried about me getting hurt!
 
 
-00:16:42,801 --> 00:16:45,980
-We are on Digibob 2!
+00:16:43,230 --> 00:16:45,980
+Biyomon, digivolve to...
 
 
 00:16:49,540 --> 00:16:50,940
-Erdramon!
+Birdramon!
 
 
 00:16:56,600 --> 00:16:57,840
@@ -1478,86 +1452,22 @@ Crimson Lightning!
 
 
 00:17:03,460 --> 00:17:04,860
-Erdramon!
+Birdramon!
 
 
-00:17:12,260 --> 00:17:13,260
-Digimon!
+00:17:06,960 --> 00:17:08,339
+Birdramon, no!
 
 
-00:17:13,380 --> 00:17:14,380
-Digimon!
+00:17:08,453 --> 00:17:09,466
+I love you!
 
 
-00:17:14,440 --> 00:17:14,940
-Digimon!
+00:17:20,617 --> 00:17:23,030
+Bidramon, digivolve to...
 
 
-00:17:15,100 --> 00:17:15,160
-Digimon!
-
-
-00:17:15,161 --> 00:17:16,161
-Digimon!
-
-
-00:17:16,540 --> 00:17:17,400
-Digimon!
-
-
-00:17:17,401 --> 00:17:18,401
-Digimon!
-
-
-00:17:19,080 --> 00:17:19,940
-Digimon!
-
-
-00:17:19,941 --> 00:17:20,240
-Digimon!
-
-
-00:17:20,400 --> 00:17:21,400
-Digimon!
-
-
-00:17:21,760 --> 00:17:22,300
-Digimon!
-
-
-00:17:22,480 --> 00:17:23,480
-Digimon!
-
-
-00:17:24,700 --> 00:17:25,700
-Digimon!
-
-
-00:17:26,140 --> 00:17:27,140
-Digimon!
-
-
-00:17:29,840 --> 00:17:30,840
-Digimon!
-
-
-00:17:31,200 --> 00:17:31,380
-Digimon!
-
-
-00:17:31,381 --> 00:17:31,620
-Digimon!
-
-
-00:17:31,760 --> 00:17:32,760
-Digimon!
-
-
-00:17:35,100 --> 00:17:36,100
-Digimon!
-
-
-00:17:37,320 --> 00:17:38,320
+00:17:36,196 --> 00:17:38,320
 Garudamon!
 
 
@@ -1573,11 +1483,11 @@ Where is that glow coming from?
 Sora, I can feel your love.
 
 
-00:17:53,770 --> 00:17:55,810
+00:17:54,076 --> 00:17:55,810
 It's making me strong.
 
 
-00:17:56,350 --> 00:17:58,890
+00:17:56,550 --> 00:17:58,890
 My crest... it glows.
 
 
@@ -1605,27 +1515,15 @@ just as I was about to claim victory?
 I'll protect you, Sora!
 
 
-00:18:17,270 --> 00:18:17,690
-Hey, Digimon!
-
-
-00:18:17,930 --> 00:18:18,930
-Hey, Digimon!
-
-
-00:18:19,110 --> 00:18:20,430
-Answer friends to the board!
-
-
 00:18:20,690 --> 00:18:21,690
-Wingblade!
+Wing Blade!
 
 
 00:18:27,530 --> 00:18:28,530
 Grisly Wing!
 
 
-00:18:29,810 --> 00:18:32,150
+00:18:30,116 --> 00:18:32,150
 I did not anticipate such strength.
 
 
@@ -1647,7 +1545,7 @@ it, Sora, and you got your crest to work!
 
 
 00:18:54,180 --> 00:18:56,536
-When Biomon was in
+When Biyomon was in
 danger of getting hurt, I
 
 
@@ -1729,7 +1627,7 @@ We finally thought things were going our
 way.
 
 
-00:19:37,421 --> 00:19:38,520
+00:19:37,901 --> 00:19:38,520
 And then...
 
 
@@ -1737,8 +1635,8 @@ And then...
 I know that laugh!
 
 
-00:19:44,500 --> 00:19:46,980
-You foolish digi-destin!
+00:19:44,994 --> 00:19:46,980
+You foolish digi-destined!
 
 
 00:19:47,220 --> 00:19:50,240
@@ -1748,12 +1646,4 @@ powers!
 
 00:19:50,480 --> 00:19:52,700
 Prepare for your ultimate destruction!
-
-
-00:20:17,820 --> 00:20:17,960
-You bring your pals walk!
-
-
-00:20:17,961 --> 00:20:18,961
-Take care!
 

@@ -1,5 +1,5 @@
 
-00:00:00,000 --> 00:00:04,000
+00:00:00,633 --> 00:00:04,000
 We figured the eighth child had to be
 somewhere in the Shibara section of town.
 
@@ -30,8 +30,8 @@ who-knows-what kind of trouble.
 
 
 00:00:17,040 --> 00:00:20,780
-Meany and Sora stumbled onto this
-fire-breathing bozo called Skull Meromon.
+Mimi and Sora stumbled onto this
+fire-breathing bozo called SkullMeramon.
 
 
 00:00:20,980 --> 00:00:23,259
@@ -114,7 +114,7 @@ anyway.
 
 
 00:02:01,050 --> 00:02:02,570
-Gatsumon, you are the mon.
+Gotsumon, you are the mon.
 
 
 00:02:02,870 --> 00:02:05,010
@@ -127,7 +127,7 @@ They might even name a building after you.
 
 
 00:02:06,950 --> 00:02:09,830
-The Gatsumonument, where they keep all the
+The Gotsu-monument, where they keep all the
 party supplies.
 
 
@@ -149,7 +149,7 @@ You're almost home.
 
 00:02:27,050 --> 00:02:30,430
 Matt and TK's mom and dad aren't together
-anymore, Padaman.
+anymore, Patamon.
 
 
 00:02:30,730 --> 00:02:33,090
@@ -260,7 +260,7 @@ You don't want me around, I'll leave.
 
 
 00:03:24,020 --> 00:03:25,020
-Padaman?
+Patamon?
 
 
 00:03:30,220 --> 00:03:32,120
@@ -268,11 +268,11 @@ I know what I'm not wanting!
 
 
 00:03:32,580 --> 00:03:34,761
-Padaman, don't... Huh?
+Patamon, don't... Huh?
 
 
 00:03:37,280 --> 00:03:39,040
-Padaman got off the train, TK.
+Patamon got off the train, TK.
 
 
 00:03:39,380 --> 00:03:40,620
@@ -359,7 +359,7 @@ No way, dude.
 
 
 00:04:27,690 --> 00:04:29,310
-You know Padaman better than that.
+You know Patamon better than that.
 
 
 00:04:30,290 --> 00:04:32,290
@@ -516,42 +516,6 @@ Come back here, you little mutants!
 00:05:50,160 --> 00:05:52,520
 This teenage thing is gonna teach you some
 manners!
-
-
-00:05:53,280 --> 00:05:54,280
-Huh?
-
-
-00:05:54,640 --> 00:05:55,640
-Huh?
-
-
-00:05:55,680 --> 00:05:56,680
-Uh-huh!
-
-
-00:05:57,060 --> 00:05:58,060
-Uh-huh!
-
-
-00:06:10,920 --> 00:06:11,260
-Uh-huh!
-
-
-00:06:11,920 --> 00:06:12,500
-Uh-huh!
-
-
-00:06:12,660 --> 00:06:13,340
-Uh-huh!
-
-
-00:06:13,341 --> 00:06:14,341
-Uh-huh!
-
-
-00:06:14,480 --> 00:06:15,060
-Uh-huh!
 
 
 00:06:15,061 --> 00:06:16,061
@@ -779,7 +743,7 @@ Hey!
 
 
 00:07:52,550 --> 00:07:53,910
-Where are Pumpkinmon and Gatsumon?
+Where are Pumpkinmon and Gotsumon?
 
 
 00:07:54,010 --> 00:07:55,170
@@ -956,23 +920,23 @@ You stole it!
 
 
 00:09:22,450 --> 00:09:24,150
-Gabamon won't take it either, right?
+Gabumon won't take it either, right?
 
 
 00:09:25,570 --> 00:09:28,011
-Ice cream... yeah... Gabamon!
+Ice cream... yeah... Gabumon!
 
 
 00:09:38,740 --> 00:09:39,300
-Gabamon!
+Gabumon!
 
 
 00:09:39,301 --> 00:09:40,301
-My otis man!
+Myotismon!
 
 
 00:09:43,380 --> 00:09:44,380
-My otis man!
+Myotismon!
 
 
 00:09:49,080 --> 00:09:50,080
@@ -1032,7 +996,7 @@ us?
 
 
 00:10:31,261 --> 00:10:34,640
-And I thought Pumpkinmon and Gatsummon
+And I thought Pumpkinmon and Gotsumon
 only wanted to have fun, not fight.
 
 
@@ -1167,7 +1131,7 @@ Whoa!
 
 
 00:11:49,280 --> 00:11:50,200
-My Otisman's coming.
+Myotismon's coming.
 
 
 00:11:50,220 --> 00:11:51,320
@@ -1229,7 +1193,7 @@ Pumpkinmon!
 
 
 00:12:39,580 --> 00:12:40,200
-Gatsumon!
+Gotsumon!
 
 
 00:12:40,460 --> 00:12:41,460
@@ -1271,32 +1235,12 @@ two!
 Crimson Lightning!
 
 
-00:13:45,621 --> 00:13:46,621
-Wait a minute.
-
-
 00:13:48,360 --> 00:13:50,560
 Those guys just wanted to be our friends.
 
 
-00:13:53,740 --> 00:13:54,740
-Garuruma!
-
-
-00:14:09,280 --> 00:14:09,700
-One!
-
-
-00:14:09,940 --> 00:14:10,500
-Diddy ball!
-
-
-00:14:10,760 --> 00:14:11,760
-Two!
-
-
-00:14:14,120 --> 00:14:15,240
-We're Garuruma!
+00:13:53,346 --> 00:13:54,740
+Garurumon!
 
 
 00:14:30,600 --> 00:14:31,700
@@ -1316,16 +1260,16 @@ They're up there!
 Oh no, look out!
 
 
-00:15:18,310 --> 00:15:19,310
-Crimson lightning!
+00:15:17,936 --> 00:15:19,310
+Crimson Lightning!
 
 
 00:15:20,990 --> 00:15:21,990
-We're Garuruma!
+WereGarurumon!
 
 
 00:15:24,250 --> 00:15:27,290
-We're Garuruma's in big trouble,
+WereGarurumon's in big trouble,
 and it's all my fault!
 
 
@@ -1336,7 +1280,7 @@ Patamon would still be with
 
 00:15:30,209 --> 00:15:32,890
 us, and we would have never
-met Punkimon and Gatsumon!
+met Pumpkinmon and Gotsumon!
 
 
 00:15:40,870 --> 00:15:42,894
@@ -1353,44 +1297,25 @@ stuck where they are now!
 Oh...
 
 
-00:15:46,790 --> 00:15:47,790
-Digimon!
+00:15:58,583 --> 00:15:59,916
+It's TK!
 
 
-00:15:58,270 --> 00:16:06,040
-It's mine!
-
-
-00:16:06,400 --> 00:16:07,400
-Digimon!
+00:16:00,490 --> 00:16:02,069
+I'm digivolving.
 
 
 00:16:12,350 --> 00:16:13,350
 Angemon!
 
 
-00:16:13,970 --> 00:16:14,390
-Digimon!
-
-
-00:16:14,910 --> 00:16:15,550
-Digimon!幹 couple monsters!
-
-
-00:16:15,870 --> 00:16:16,870
-Digimon!
-
-
 00:16:17,010 --> 00:16:18,010
 Ah!
 
 
-00:16:34,380 --> 00:16:35,380
-Mon,
-
-
-00:16:37,890 --> 00:16:39,670
-are you all right, we're Gururuman?
+00:16:36,680 --> 00:16:39,806
+- Angemon.
+- Are you all right, WereGarurumon?
 
 
 00:16:40,530 --> 00:16:42,030
@@ -1398,7 +1323,7 @@ Yes, thanks to you I am.
 
 
 00:16:42,370 --> 00:16:43,370
-Anjumon rules!
+Angemon rules!
 
 
 00:16:43,510 --> 00:16:46,030
@@ -1407,48 +1332,24 @@ Patamon anymore.
 
 
 00:16:46,670 --> 00:16:50,170
-Hmm, Anjumon, they must be desperate if
+Hmm, Angemon, they must be desperate if
 they sent you.
 
 
 00:16:51,750 --> 00:16:53,310
-Anjumon, shall we take him?
+Angemon, shall we take him?
 
 
 00:16:53,570 --> 00:16:54,570
 Let's go.
 
 
-00:16:57,270 --> 00:16:59,130
-Hey, Digimon, hey, Digimon.
-
-
-00:16:59,510 --> 00:17:01,590
-Monster friends to the boys and girls.
-
-
-00:17:01,910 --> 00:17:03,310
-Hey, Digimon, hey, Digimon.
-
-
-00:17:03,810 --> 00:17:05,610
-Champions of the digital world.
-
-
-00:17:09,980 --> 00:17:11,560
+00:17:10,140 --> 00:17:11,560
 It's time I take my lead.
 
 
 00:17:11,740 --> 00:17:12,740
 We will fight again.
-
-
-00:17:14,020 --> 00:17:15,840
-Hey, Digimon, hey, Digimon.
-
-
-00:17:16,300 --> 00:17:18,240
-Champions of the digital world.
 
 
 00:17:22,100 --> 00:17:23,680
@@ -1472,10 +1373,10 @@ Oh, oh!
 
 
 00:17:27,360 --> 00:17:28,360
-Padamon?
+Patamon?
 
 
-00:17:28,780 --> 00:17:29,980
+00:17:29,186 --> 00:17:29,980
 Are you okay?
 
 
@@ -1483,15 +1384,15 @@ Are you okay?
 Yes.
 
 
-00:17:32,460 --> 00:17:34,880
+00:17:32,760 --> 00:17:34,880
 I'm all right now, TK.
 
 
-00:17:35,920 --> 00:17:37,740
-I'm sorry, Padamon.
+00:17:36,390 --> 00:17:37,740
+I'm sorry, Patamon.
 
 
-00:17:38,240 --> 00:17:39,820
+00:17:38,716 --> 00:17:39,820
 I'm sorry I got mad.
 
 
@@ -1550,13 +1451,13 @@ granted.
 
 
 00:18:38,140 --> 00:18:40,278
-TK nearly lost Panamon's
+TK nearly lost Patamon's
 friendship, and who knows
 
 
 00:18:40,279 --> 00:18:42,561
 if we'll ever see Pumpkinmon
-and Gatsumon again.
+and Gotsumon again.
 
 
 00:18:42,760 --> 00:18:43,900
@@ -1578,25 +1479,16 @@ You may be sweet, little Kari, but
 next time I will get my claws into you.
 
 
-00:18:58,740 --> 00:19:01,137
-Will Kari survive her
-next encounter with
+00:18:58,740 --> 00:19:02,019
+Will Kari survive her next
+encounter with Gatomon,
 
 
-00:19:01,138 --> 00:19:03,820
-Gatoman, Iotismon,
-Iotismon's most loyal servant?
+00:19:02,044 --> 00:19:03,820
+Myotismon's most loyal servant?
 
 
 00:19:04,100 --> 00:19:07,180
 Find out on the next Digimon Digital
 Monsters.
-
-
-00:19:08,080 --> 00:19:09,480
-That's okay with Edmonds.
-
-
-00:19:09,481 --> 00:19:10,481
-That thing falls...
 

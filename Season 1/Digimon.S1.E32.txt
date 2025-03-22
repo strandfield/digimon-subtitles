@@ -1,11 +1,11 @@
 
-00:00:00,000 --> 00:00:04,300
+00:00:00,433 --> 00:00:04,300
 I certainly had my hands full looking for
 that elusive eighth child, and at the same
 
 
 00:00:04,301 --> 00:00:06,280
-time trying to hide Tentemon from my
+time trying to hide Tentomon from my
 parents.
 
 
@@ -21,7 +21,7 @@ moving all over town.
 
 00:00:10,580 --> 00:00:13,420
 It confused everybody, including
-Demidevilmon.
+DemiDevimon.
 
 
 00:00:14,260 --> 00:00:17,720
@@ -42,37 +42,6 @@ Kabuterimon.
 00:00:25,140 --> 00:00:28,760
 Most curious, with all this excitement,
 you'd think he were back in the Digiworld.
-
-
-00:00:40,610 --> 00:00:41,970
-Greg Platt Digimon!
-
-
-00:00:42,250 --> 00:00:43,250
-Digitle Monsters!
-
-
-00:00:43,290 --> 00:00:44,811
-Digimon are the champions!
-
-
-00:01:02,591 --> 00:01:09,590
-istaigg gloryistッ character
-Digimon, it's your champion.
-
-
-00:01:16,270 --> 00:01:18,570
-Digimon monsters, Digimon are the
-champions.
-
-
-00:01:19,270 --> 00:01:22,550
-Digimon, Digimon monsters, Digimon are the
-champions.
-
-
-00:01:23,230 --> 00:01:24,990
-Digimon, Digimon...
 
 
 00:01:29,610 --> 00:01:30,820
@@ -125,12 +94,8 @@ Sheesh, you couldn't take a cap like
 everyone else!
 
 
-00:02:32,150 --> 00:02:33,150
-At
-
-
-00:02:38,610 --> 00:02:39,910
-last, I was starting to worry!
+00:02:38,410 --> 00:02:39,910
+At last, I was starting to worry!
 
 
 00:02:40,630 --> 00:02:41,190
@@ -274,14 +239,14 @@ being struck down so suddenly.
 
 
 00:04:06,091 --> 00:04:08,030
-Ty, it's your friend Izzy!
+Tai, it's your friend Izzy!
 
 
 00:04:08,610 --> 00:04:09,610
 Coming!
 
 
-00:04:13,590 --> 00:04:14,590
+00:04:15,190 --> 00:04:15,790
 Oh!
 
 
@@ -326,7 +291,7 @@ Nice disguise, dude!
 
 
 00:04:28,790 --> 00:04:29,330
-Thanks, Ty.
+Thanks, Tai.
 
 
 00:04:29,530 --> 00:04:30,730
@@ -365,20 +330,12 @@ Hey, Charlie!
 Over here!
 
 
-00:04:40,770 --> 00:04:41,770
-Hey, Charlie!
-
-
-00:04:42,130 --> 00:04:43,130
-Over here!
-
-
 00:04:43,290 --> 00:04:44,510
 Yeah, real inconspicuous.
 
 
 00:04:48,150 --> 00:04:50,910
-So, Ty, did you find your address book
+So, Tai, did you find your address book
 from school?
 
 
@@ -409,7 +366,7 @@ Ha-ha.
 
 
 00:05:07,970 --> 00:05:08,790
-Very funny, Ty.
+Very funny, Tai.
 
 
 00:05:08,950 --> 00:05:09,950
@@ -556,7 +513,7 @@ own!
 
 
 00:06:21,230 --> 00:06:21,870
-Go, Ty!
+Go, Tai!
 
 
 00:06:22,230 --> 00:06:22,810
@@ -737,7 +694,7 @@ Wait a minute.
 
 
 00:07:42,590 --> 00:07:43,210
-No, Ty!
+No, Tai!
 
 
 00:07:43,430 --> 00:07:44,230
@@ -762,7 +719,7 @@ plate.
 
 
 00:07:48,790 --> 00:07:51,150
-Oh man, Ty, you're a totally great guy.
+Oh man, Tai, you're a totally great guy.
 
 
 00:07:51,430 --> 00:07:52,430
@@ -858,7 +815,7 @@ All is ready.
 
 
 00:08:59,010 --> 00:09:00,150
-Perfect, Gatomar.
+Perfect, Gatomon.
 
 
 00:09:00,510 --> 00:09:02,470
@@ -1075,7 +1032,7 @@ Laugh it up!
 
 
 00:10:51,680 --> 00:10:54,060
-When my Otis-mon is through, you won't be
+When Myotismon is through, you won't be
 laughing!
 
 
@@ -1131,11 +1088,7 @@ What's your name?
 Meow!
 
 
-00:11:18,330 --> 00:11:18,510
-Meow!
-
-
-00:11:18,511 --> 00:11:19,511
+00:11:18,330 --> 00:11:18,916
 Meow!
 
 
@@ -1235,7 +1188,7 @@ Watching my own TV.
 
 
 00:12:20,910 --> 00:12:22,210
-Wasn't that the best, Palmont?
+Wasn't that the best, Palmon?
 
 
 00:12:22,390 --> 00:12:23,830
@@ -1256,7 +1209,7 @@ She never has to cook.
 
 
 00:12:29,450 --> 00:12:31,590
-Zora's mom made our dinner and it was
+Sora's mom made our dinner and it was
 terrific!
 
 
@@ -1500,28 +1453,20 @@ Oh, no!
 We got trouble!
 
 
-00:15:17,370 --> 00:15:19,650
-Get ready for my needle spray!
-
-
-00:15:19,651 --> 00:15:20,651
-Hey, hey!
+00:15:17,370 --> 00:15:20,016
+Get ready for my Needle Spray!
 
 
 00:15:22,110 --> 00:15:23,110
 Oh!
 
 
-00:15:23,250 --> 00:15:23,650
-Oh!
-
-
-00:15:23,730 --> 00:15:24,730
-Tell the heart!
+00:15:23,450 --> 00:15:24,483
+Togemon!
 
 
 00:15:34,720 --> 00:15:36,300
-Explain this to us, Albumon.
+Explain this to us, Agumon.
 
 
 00:15:36,480 --> 00:15:37,640
@@ -1529,7 +1474,7 @@ Just who is this guy?
 
 
 00:15:37,820 --> 00:15:38,980
-He's Skull Merrimon.
+He's SkullMeramon.
 
 
 00:15:39,140 --> 00:15:40,280
@@ -1540,16 +1485,16 @@ His element is fire.
 He's tough and he can sure dish it out.
 
 
-00:15:46,000 --> 00:15:47,040
+00:15:45,873 --> 00:15:47,040
 Metal Fireball!
 
 
-00:15:49,900 --> 00:15:51,820
+00:15:50,280 --> 00:15:51,820
 The tower is going to fall on the city.
 
 
 00:15:52,240 --> 00:15:53,860
-Grab it, come up to remind us!
+Grab it, Kabuterimon. Hurry!
 
 
 00:15:57,730 --> 00:15:59,410
@@ -1564,24 +1509,20 @@ Are you ready?
 Yeah!
 
 
-00:16:01,930 --> 00:16:03,170
-Agumon, did you fall?
+00:16:01,930 --> 00:16:03,659
+Agumon, digivolve to...
 
 
-00:16:04,630 --> 00:16:05,630
-Ramos!
+00:16:04,432 --> 00:16:05,630
+Greymon!
 
 
-00:16:10,630 --> 00:16:11,630
-Great,
-
-
-00:16:16,610 --> 00:16:17,950
-now we've really made him mad.
+00:16:16,116 --> 00:16:17,950
+Great, now we've really made him mad.
 
 
 00:16:17,951 --> 00:16:21,350
-He swallowed that Nova blast like a hot
+He swallowed that Nova Blast like a hot
 fudge sundae.
 
 
@@ -1594,8 +1535,8 @@ Unless Greymon digivolves again,
 he's toast!
 
 
-00:17:15,630 --> 00:17:17,110
-Lights me, Jimmy!
+00:17:16,236 --> 00:17:17,110
+Lightspeed Jabbing!
 
 
 00:17:18,050 --> 00:17:18,810
@@ -1607,16 +1548,12 @@ This guy is scary!
 
 
 00:17:22,150 --> 00:17:23,350
-Metal fireball!
+Metal Fireball!
 
 
 00:18:09,610 --> 00:18:13,991
 While the Clash of the Monsters caused
-extensive damage to the tower, no casualties.
-
-
-00:18:13,992 --> 00:18:14,490
-..
+extensive damage to the tower, no casualties...
 
 
 00:18:14,491 --> 00:18:16,250
@@ -1697,50 +1634,4 @@ That's okay.
 
 00:19:06,900 --> 00:19:07,900
 Tomorrow...
-
-
-00:19:08,220 --> 00:19:14,700
-That's great.
-
-
-00:19:14,960 --> 00:19:16,460
-This was a bad.
-
-
-00:19:16,461 --> 00:19:16,740
-This is from Conference从 Games將.
-
-
-00:19:16,741 --> 00:19:17,741
-Welcome to
-
-
-00:19:27,250 --> 00:19:27,250
-the에서도 Cookie Fくbpo Island.
-
-
-00:19:27,251 --> 00:19:27,430
-Subscribe and share of our newsletter
-moves at somebody else's class.
-
-
-00:19:27,431 --> 00:19:27,450
-It's out to join us.
-
-
-00:19:27,451 --> 00:19:27,590
-Create cyber nikki a lunatic course.
-
-
-00:19:27,591 --> 00:19:28,530
-It's two eggshells that are right.
-
-
-00:19:28,531 --> 00:19:28,750
-So just wait for any good stuff.
-
-
-00:19:29,010 --> 00:19:30,851
-Now I can change okays territory,...
-Is a social worker's way to leave it in.
 

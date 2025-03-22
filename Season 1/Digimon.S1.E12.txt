@@ -1,5 +1,5 @@
 
-00:00:00,000 --> 00:00:03,220
+00:00:00,513 --> 00:00:03,220
 When I went fishing, I never thought I
 would catch what I did.
 
@@ -26,7 +26,7 @@ people.
 
 00:00:16,360 --> 00:00:19,352
 As it turned out, it was the
-Bakuman holiday, and these
+Bakemon holiday, and these
 
 
 00:00:19,353 --> 00:00:22,260
@@ -36,86 +36,11 @@ who were planning on eating us.
 
 00:00:22,620 --> 00:00:25,480
 Thankfully, Joe figured out how to take
-away Lord Bakuman's power.
+away Lord Bakemon's power.
 
 
 00:00:25,680 --> 00:00:27,020
 Just another day in paradise.
-
-
-00:00:42,970 --> 00:00:43,770
-Digimon!
-
-
-00:00:43,930 --> 00:00:45,010
-Digital Monsters!
-
-
-00:00:45,130 --> 00:00:46,430
-Digimon are the champions!
-
-
-00:00:47,150 --> 00:00:47,950
-Digimon!
-
-
-00:00:48,090 --> 00:00:49,170
-Digital Monsters!
-
-
-00:00:49,270 --> 00:00:50,610
-Digimon are the champions!
-
-
-00:00:51,270 --> 00:00:55,830
-Change into Digital Champions 2!
-
-
-00:00:56,530 --> 00:00:59,030
-Save the Digital World!
-
-
-00:00:59,590 --> 00:01:00,590
-Digimon!
-
-
-00:01:00,690 --> 00:01:01,690
-Digital Monsters!
-
-
-00:01:01,770 --> 00:01:03,090
-Digimon are the champions!
-
-
-00:01:03,790 --> 00:01:04,590
-Digimon!
-
-
-00:01:04,750 --> 00:01:05,830
-Digital Monsters!
-
-
-00:01:05,950 --> 00:01:07,270
-Digimon are the champions!
-
-
-00:01:10,410 --> 00:01:22,310
-Digimon, it's your
-champion, are the champions.
-
-
-00:01:22,690 --> 00:01:26,130
-Digimon, digital monsters, Digimon,
-are the champions.
-
-
-00:01:26,830 --> 00:01:28,950
-Digimon, digital monsters, Digimon,
-are the champions.
-
-
-00:01:30,280 --> 00:01:31,280
-Digimon...
 
 
 00:01:51,100 --> 00:01:53,860
@@ -193,20 +118,20 @@ I'm not scared of being separated from the
 others and being lost and being homesick.
 
 
-00:02:57,761 --> 00:03:00,520
-D-d-d-d-d-d-d.
-
-
 00:03:00,521 --> 00:03:02,800
 Poor little TK, I wish I could help.
 
 
 00:03:03,760 --> 00:03:06,820
-What would Beowman do if she were here?
+What would Biyomon do if she were here?
 
 
 00:03:09,300 --> 00:03:11,320
-Beowman Digi-Ball 2!
+Biyomon, digivolve to...
+
+
+00:03:13,960 --> 00:03:15,960
+Birdramon
 
 
 00:03:20,680 --> 00:03:26,320
@@ -462,7 +387,7 @@ What now?
 
 
 00:06:22,100 --> 00:06:22,780
-Boramun!
+Botamon!
 
 
 00:06:23,000 --> 00:06:24,200
@@ -498,7 +423,7 @@ What's this one called?
 
 
 00:06:35,720 --> 00:06:36,720
-That's Puniman!
+That's Punimon!
 
 
 00:06:36,960 --> 00:06:37,300
@@ -551,7 +476,7 @@ You don't mean that!
 
 
 00:06:49,560 --> 00:06:50,760
-This is a little baby Urimon!
+This is a little baby Yuramon!
 
 
 00:06:51,320 --> 00:06:52,760
@@ -571,7 +496,7 @@ Achoo!
 
 
 00:07:02,520 --> 00:07:03,460
-Hey, Palamun!
+Hey, Palmon!
 
 
 00:07:03,520 --> 00:07:04,080
@@ -805,7 +730,7 @@ Super Thunderstrike!
 
 
 00:08:59,880 --> 00:09:02,960
-I am Elikmon, caretaker of baby digi mons.
+I am Elecmon, caretaker of baby digi mons.
 
 
 00:09:03,100 --> 00:09:04,380
@@ -1227,7 +1152,7 @@ Oh!
 
 
 00:14:49,010 --> 00:14:50,750
-Elegmon, are you...
+Elecmon, are you...
 
 
 00:14:55,640 --> 00:14:57,680
@@ -1264,7 +1189,7 @@ Yay!
 
 
 00:15:21,600 --> 00:15:23,380
-I'm really sorry, Padamon.
+I'm really sorry, Patamon.
 
 
 00:15:23,680 --> 00:15:27,220
@@ -1340,7 +1265,7 @@ Hey, take a look around.
 
 00:15:58,260 --> 00:16:00,720
 Someday, all this will be yours,
-Padamon, my boy.
+Patamon, my boy.
 
 
 00:16:01,020 --> 00:16:04,460
@@ -1349,7 +1274,7 @@ here, just like your old man.
 
 
 00:16:04,461 --> 00:16:07,280
-Oh, Elegmon, I am not here to raise
+Oh, Elecmon, I am not here to raise
 babies.
 
 
@@ -1384,7 +1309,7 @@ Yeah.
 
 
 00:16:22,200 --> 00:16:23,440
-Sounds great, Elegmon.
+Sounds great, Elecmon.
 
 
 00:16:23,680 --> 00:16:25,640
@@ -1427,7 +1352,7 @@ That's cold.
 
 00:16:41,700 --> 00:16:44,940
 And poison ivy, and snakes, and
-bugs, and... And there's Devamon.
+bugs, and... And there's Devimon.
 
 
 00:16:45,440 --> 00:16:46,680
@@ -1435,7 +1360,7 @@ Yeah, I was getting to that.
 
 
 00:16:47,420 --> 00:16:49,680
-Devamon is... well, he's an evil Digimon.
+Devimon is... well, he's an evil Digimon.
 
 
 00:16:50,100 --> 00:16:53,440
@@ -1465,7 +1390,7 @@ out.
 
 
 00:17:03,040 --> 00:17:05,260
-We need to do it without fighting Devamon.
+We need to do it without fighting Devimon.
 
 
 00:17:05,560 --> 00:17:07,220
@@ -1600,7 +1525,7 @@ children is lost, I am pleased.
 
 
 00:18:22,160 --> 00:18:23,160
-Neomar!
+Leomon!
 
 
 00:18:23,360 --> 00:18:25,740
@@ -1653,7 +1578,7 @@ Congratulations on Digivolving!
 
 
 00:19:14,880 --> 00:19:16,080
-Congratulations, Coralmon!
+Congratulations, Koromon!
 
 
 00:19:16,500 --> 00:19:17,500
@@ -1728,12 +1653,4 @@ Yeah!
 
 00:19:47,360 --> 00:19:48,360
 Hehehe!
-
-
-00:19:49,480 --> 00:19:52,000
-See you!
-
-
-00:19:59,870 --> 00:20:12,110
-I'm gera-I'm sorry!
 
